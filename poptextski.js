@@ -14,7 +14,7 @@ On the white below George dipped and rose and dipped out of sight. The rush and 
 
 
 George stood a little farther down the slope, knocking the snow from his wind jacket with big slaps.
-“You took a beauty, Mike,” he called to Nick. “That’s lousy soft snow. It bagged me the sameway.”
+“You took a beauty, Mike,” he called to Nick. “That’s lousy soft snow. It bagged me the same way.”
 “What’s it like over the khud?” Nick kicked his skis around as he lay on his back and stood up.
 “You’ve got to keep to your left. It’s a good fast drop with a Christy at the bottom on account of a fence.”
 “Wait a sec and we’ll take it together.”
@@ -163,4 +163,7 @@ They opened the door and went out. It was very cold. The snow had crusted hard. 
 
 
 
-They took down their skis from where they leaned against the wall in the inn. Nick put on his gloves. George was already started up the road, his skis on his shoulder. Now they would have the run home together.`
+They took down their skis from where they leaned against the wall in the inn. Nick put on his gloves. George was already started up the road, his skis on his shoulder. Now they would have the run home together.
+
+
+`
