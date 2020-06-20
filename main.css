@@ -21,6 +21,11 @@ html {
     line-height: 1.25;
 }
 
+.middle p {
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
 .detail {
     text-align: center;
     font-style: italic;
