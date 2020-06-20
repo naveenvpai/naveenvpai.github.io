@@ -6,17 +6,17 @@ document.getElementById("copyright").innerHTML = `Copyright 1987 by Simon & Schu
 `
 
 document.getElementById("story").innerHTML =
-`The funicular car bucked once more and then stopped. It could not go farther, the snow drifted solidly across the track. The gale scouring the exposed surface of the mountain had swept the snow surface into a wind-board crust. Nick, waxing his skis in thebaggage car, pushed his boots into the toe irons and shut the clamp tight. He jumped from the car sideways onto the hard wind-board, made a jump turn and crouching and trailing his sticks slipped in a rush down the slope.
+`The funicular car bucked once more and then stopped. It could not go farther, the snow drifted solidly across the track. The gale scouring the exposed surface of the mountain had swept the snow surface into a wind-board crust. Nick, waxing his skis in the baggage car, pushed his boots into the toe irons and shut the clamp tight. He jumped from the car sideways onto the hard wind-board, made a jump turn and crouching and trailing his sticks slipped in a rush down the slope.
 
 
 
-On the white below George dipped and rose and dipped out of sight. The rush and the suddenswoop as he dropped down a steep undulation in the mountain side plucked Nick’s mind out and lefthim only the wonderful flying, dropping sensation in his body. He rose to a slight up-run and then thesnow seemed to drop out from under him as he went down, down, faster and faster in a rush down thelast, long steep slope. Crouching so he was almost sitting back on his skis, trying to keep the center ofgravity low, the snow driving like a sand-storm, he knew the pace was too much. But he held it. Hewould not let go and spill. Then a patch of soft snow, left in a hollow by the wind, spilled him and hewent over and over in a clashing of skis, feeling like a shot rabbit, then stuck, his legs crossed, hisskis sticking straight up and his nose and ears jammed full of snow.
+On the white below George dipped and rose and dipped out of sight. The rush and the sudden swoop as he dropped down a steep undulation in the mountain side plucked Nick’s mind out and left him only the wonderful flying, dropping sensation in his body. He rose to a slight up-run and then the snow seemed to drop out from under him as he went down, down, faster and faster in a rush down the last, long steep slope. Crouching so he was almost sitting back on his skis, trying to keep the center of gravity low, the snow driving like a sand-storm, he knew the pace was too much. But he held it. He would not let go and spill. Then a patch of soft snow, left in a hollow by the wind, spilled him and he went over and over in a clashing of skis, feeling like a shot rabbit, then stuck, his legs crossed, his skis sticking straight up and his nose and ears jammed full of snow.
 
 
-George stood a little farther down the slope, knocking the snow from his wind jacket with bigslaps.
+George stood a little farther down the slope, knocking the snow from his wind jacket with big slaps.
 “You took a beauty, Mike,” he called to Nick. “That’s lousy soft snow. It bagged me the sameway.”
 “What’s it like over the khud?” Nick kicked his skis around as he lay on his back and stood up.
-“You’ve got to keep to your left. It’s a good fast drop with a Christy at the bottom on account ofa fence.”
+“You’ve got to keep to your left. It’s a good fast drop with a Christy at the bottom on account of a fence.”
 “Wait a sec and we’ll take it together.”
 “No, you come on and go first. I like to see you take the khuds.”
 
@@ -26,24 +26,24 @@ George stood a little farther down the slope, knocking the snow from his wind ja
 
 
 
-Nick Adams came up past George, big back and blond head still faintly snowy, then his skis started slipping at the edge and he swooped down, hissing in the crystalline powder snow andseeming to float up and drop down as he went up and down the billowing khuds. He held to his leftand at the end, as he rushed toward the fence, keeping his knees locked tight together and turning hisbody like tightening a screw brought his skis sharply around to the right in a smother of snow andslowed into a loss of speed parallel to the hillside and the wire fence.
+Nick Adams came up past George, big back and blond head still faintly snowy, then his skis started slipping at the edge and he swooped down, hissing in the crystalline powder snow and seeming to float up and drop down as he went up and down the billowing khuds. He held to his left hand at the end, as he rushed toward the fence, keeping his knees locked tight together and turning his body like tightening a screw brought his skis sharply around to the right in a smother of snow and slowed into a loss of speed parallel to the hillside and the wire fence.
 
 
 
 
-He looked up the hill. George was coming down in telemark position, kneeling; one leg forwardand bent, the other trailing; his sticks hanging like some insect’s thin legs, kicking up puffs of snow asthey touched the surface and finally the whole kneeling, trailing figure coming around in a beautifulright curve, crouching, the legs shot forward and back, the body leaning out against the swing, thesticks accenting the curve like points of light, all in a wild cloud of snow.
+He looked up the hill. George was coming down in telemark position, kneeling; one leg forward and bent, the other trailing; his sticks hanging like some insect’s thin legs, kicking up puffs of snow as they touched the surface and finally the whole kneeling, trailing figure coming around in a beautiful right curve, crouching, the legs shot forward and back, the body leaning out against the swing, thesticks accenting the curve like points of light, all in a wild cloud of snow.
 
 
 
 “I was afraid to Christy,” George said, “the snow was too deep. You made a beauty.”
 “I can’t telemark with my leg,” Nick said.
-Nick held down the top strand of the wire fence with his ski and George slid over. Nick followed him down to the road. They thrust bent-kneed along the road into a pine forest. The road became polished ice, stained orange and a tobacco yellow from the teams hauling logs. The skierskept to the stretch of snow along the side. The road dipped sharply to a stream and then ran straightup-hill. Through the woods they could see a long, low-eaved, weather-beaten building. Through thetrees it was a faded yellow. Closer the window frames were painted green. The paint was peeling.Nick knocked his clamps loose with one of his ski sticks and kicked off the skis.
+Nick held down the top strand of the wire fence with his ski and George slid over. Nick followed him down to the road. They thrust bent-kneed along the road into a pine forest. The road became polished ice, stained orange and a tobacco yellow from the teams hauling logs. The skiers kept to the stretch of snow along the side. The road dipped sharply to a stream and then ran straight up-hill. Through the woods they could see a long, low-eaved, weather-beaten building. Through the trees it was a faded yellow. Closer the window frames were painted green. The paint was peeling.Nick knocked his clamps loose with one of his ski sticks and kicked off the skis.
 
 
 
 
 “We might as well carry them up here,” he said.
-He climbed the steep road with the skis on his shoulder, kicking his heel nails into the icyfooting. He heard George breathing and kicking in his heels just behind him. They stacked the skisagainst the side of the inn and slapped the snow off each other’s trousers, stamped their boots clean,and went in.
+He climbed the steep road with the skis on his shoulder, kicking his heel nails into the icy footing. He heard George breathing and kicking in his heels just behind him. They stacked the skis against the side of the inn and slapped the snow off each other’s trousers, stamped their boots clean,and went in.
 
 
 
@@ -57,7 +57,7 @@ He climbed the steep road with the skis on his shoulder, kicking his heel nails 
 
 
 
-Inside it was quite dark. A big porcelain stove shone in the corner of the room. There was a lowceiling. Smooth benches back of dark, wine-stained tables were along each side of the rooms. TwoSwiss sat over their pipes and two decies of cloudy new wine next to the stove. The boys took offtheir jackets and sat against the wall on the other side of the stove. A voice in the next room stoppedsinging and a girl in a blue apron came in through the door to see what they wanted to drink.
+Inside it was quite dark. A big porcelain stove shone in the corner of the room. There was a low ceiling. Smooth benches back of dark, wine-stained tables were along each side of the rooms. TwoSwiss sat over their pipes and two decies of cloudy new wine next to the stove. The boys took off their jackets and sat against the wall on the other side of the stove. A voice in the next room stopped singing and a girl in a blue apron came in through the door to see what they wanted to drink.
 “A bottle of Sion,” Nick said. “Is that all right, Gidge?”
 “Sure,” said George. “You know more about wine than I do. I like any of it.”
 The girl went out.
@@ -81,9 +81,9 @@ The girl brought the wine in and they had trouble with the cork. Nick finally op
 
 
 
-The girl came in and Nick noticed that her apron covered swellingly her pregnancy. I wonderwhy I didn’t see that when she first came in, he thought.
+The girl came in and Nick noticed that her apron covered swellingly her pregnancy. I wonder why I didn’t see that when she first came in, he thought.
 “What were you singing?” he asked her.
-“Opera, German opera.” She did not care to discuss the subject. “We have some apple strudel ifyou want it.”
+“Opera, German opera.” She did not care to discuss the subject. “We have some apple strudel if you want it.”
 “She isn’t so cordial, is she?” said George.
 “Oh, well. She doesn’t know us and she thought we were going to kid her about her singing,maybe. She’s from up where they speak German probably and she’s touchy about being here and then she’s got that baby coming without being married and she’s touchy.”
 “How do you know she isn’t married?”
@@ -103,7 +103,7 @@ The door came open and a gang of woodcutters from up the road came in, stamping 
 
 
 
-George and Nick were happy. They were fond of each other. They knew they had the run backhome ahead of them.
+George and Nick were happy. They were fond of each other. They knew they had the run back home ahead of them.
 “When have you got to go back to school?” Nick asked.
 “Tonight,” George answered. “I’ve got to get the ten-forty from Montreux.”
 “I wish you could stick over and we could do the Dent du Lys tomorrow.”
@@ -115,7 +115,7 @@ George and Nick were happy. They were fond of each other. They knew they had the
 
 
 
-Take our skis and go on the train to where there was good running and then go on and put up at pubsand go right across the Oberland and up the Valais and all through the Engadine and just take repairkit and extra sweaters and pyjamas in our rucksacks and not give a damn about school or anything.”
+Take our skis and go on the train to where there was good running and then go on and put up at pubs and go right across the Oberland and up the Valais and all through the Engadine and just take repair kit and extra sweaters and pyjamas in our rucksacks and not give a damn about school or anything.”
 “Yes, and go through the Schwarzwald that way. Gee, the swell places.”“That’s where you went fishing last summer, isn’t it?”
 “Yes.”
 They ate the strudel and drank the rest of the wine.
@@ -163,4 +163,4 @@ They opened the door and went out. It was very cold. The snow had crusted hard. 
 
 
 
-They took down their skis from where they leaned against the wall in the inn. Nick put on his gloves. George was already started up the road, his skis on his shoulder. Now they would have therun home together.`
+They took down their skis from where they leaned against the wall in the inn. Nick put on his gloves. George was already started up the road, his skis on his shoulder. Now they would have the run home together.`
