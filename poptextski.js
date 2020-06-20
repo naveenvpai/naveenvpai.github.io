@@ -31,7 +31,7 @@ Nick Adams came up past George, big back and blond head still faintly snowy, the
 
 
 
-He looked up the hill. George was coming down in telemark position, kneeling; one leg forward and bent, the other trailing; his sticks hanging like some insect’s thin legs, kicking up puffs of snow as they touched the surface and finally the whole kneeling, trailing figure coming around in a beautiful right curve, crouching, the legs shot forward and back, the body leaning out against the swing, thesticks accenting the curve like points of light, all in a wild cloud of snow.
+He looked up the hill. George was coming down in telemark position, kneeling; one leg forward and bent, the other trailing; his sticks hanging like some insect’s thin legs, kicking up puffs of snow as they touched the surface and finally the whole kneeling, trailing figure coming around in a beautiful right curve, crouching, the legs shot forward and back, the body leaning out against the swing, the sticks accenting the curve like points of light, all in a wild cloud of snow.
 
 
 
