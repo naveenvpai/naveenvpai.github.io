@@ -16,7 +16,7 @@ html {
 }
 
 .middle {
-    font-size: 6.5vh;
+    font-size: 6.25vh;
     margin: 0 auto;
     line-height: 1.25;
 }
@@ -36,7 +36,7 @@ h1, h2 {
 
 /* For mobile phones: */
 .middle {
-  width: 100%;
+  width: 95%;
 }
 
 @media only screen and (min-width: 700px) {
