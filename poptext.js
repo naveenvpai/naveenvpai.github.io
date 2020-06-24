@@ -64,17 +64,13 @@ The grandmother offered to hold the baby and the children's mother passed him ov
 </p><p>
 When the children finished all the comic books they had brought, they opened the lunch and ate it. The grandmother ate a peanut butter sandwich and an olive and would not let
 </p><p>
-I40 A GOOD MAN IS HARD TO FIND
-</p><p>
 the children throw the box and the paper napkins out the window. When there was nothing else to do they played a game by choosing a cloud and making the other two guess what shape it suggested. John Wesley took one the shape of a cow and June Star guessed a cow and John Wesley said, no, an automobile, and June Star said he didn't play fair, and they began to slap each other over the grandmother.
 </p><p>
 The grandmother said she would tell them a story if they would keep quiet. When she told a story, she rolled her eyes and waved her head and was very dramatic. She said once when she was a maiden lady she had been courted by a Mr. Edgar Atkins Teagarden from Jasper, Georgia. She said he was a very good-looking man and a gentleman and that he brought her a watermelon every Saturday afternoon with his initials cut in it, E. A. T. Well, one Saturday, she said, Mr. Teagarden brought the watermelon and there was nobody at home and he left it on the front porch and returned in his buggy to Jasper, but she never got the watermelon, she said, because a nigger boy ate it when he saw the initials, E. A. T.! This story tickled John Wesley's funny bone and he giggled and giggled but June Star didn't think it was any good. She said she wouldn't marry a man that just brought her a watermelon on Saturday. The grandmother said she would have done well to marry Mr. Teagarden because he was a gentleman and had bought Coca-Cola stock when it first came out and that he had died only a few years ago, a very wealthy man.
 </p><p>
 They stopped at The Tower for barbecued sandwiches. The Tower was a part stucco and part wood filling station and dance hall set in a clearing outside of Timothy. A fat man named Red Sammy Butts ran it and there were signs stuck here and there on the building and for miles up and down the highway saying, TRY RED SAMMY'S FAMOUS BARBECUE. NONE LIKE FAMOUS RED SAMMY'S! RED SAM! THE FAT BOY WITH THE HAPPY LAUGH. A VETERAN! RED SAMMY'S YOUR MAN!
 </p><p>
-Red Sammy was lying on the bare ground outside The Tower with his head under a truck while a gray monkey about a foot high, chained to a small chinaberry tree, chattered nearby. The monkey sprang back into the tree and got on the
-</p><p>
-A GOOD MAN IS HARD TO FIND 141 highest limb as soon as he saw the children jump out of the car and run toward him.
+Red Sammy was lying on the bare ground outside The Tower with his head under a truck while a gray monkey about a foot high, chained to a small chinaberry tree, chattered nearby. The monkey sprang back into the tree and got on the highest limb as soon as he saw the children jump out of the car and run toward him.
 </p><p>
 Inside, The Tower was a long dark room with a counter at one end and tables at the other and dancing space in the middle. They all sat down at a board table next to the nickelodeon and Red Sam's wife, a tall burnt-brown woman with hair and eyes lighter than her skin, came and took their order. The children's mother put a dime in the machine and played "The Tennessee Waltz," and the grandmother said that tune always made her want to dance. She asked Bailey if he would like to dance but he only glared at her. He didn't have a naturally sunny disposition like she did and trips made him nervous. The grandmother's brown eyes were very bright. She swayed her head from side to side and pretended she was dancing in her chair. June Star said play something she could tap to so the children's mother put in another dime and played a fast number and June Star stepped out onto the dance floor and did her tap routine.
 </p><p>
@@ -90,11 +86,7 @@ Red Sam came in and told his wife to quit lounging on the counter and hurry up w
 </p><p>
 "People are certainly not nice like they used to be," said the grandmother.
 </p><p>
-"Two fellers come in here last week," Red Sammy said, "driving a Chrysler. It was a old beat-up car but it was a good one and these boys looked all right to me. Said they worked
-</p><p>
-142 A GOOD MAN IS HARD TO FIND
-</p><p>
-at the mill and you know I let them fellers charge the gas they bought? Now why did I do that?"
+"Two fellers come in here last week," Red Sammy said, "driving a Chrysler. It was a old beat-up car but it was a good one and these boys looked all right to me. Said they worked at the mill and you know I let them fellers charge the gas they bought? Now why did I do that?"
 </p><p>
 "Because you're a good man!" the grandmother said at once.
 </p><p>
@@ -112,11 +104,7 @@ His wife brought the orders, carrying the five plates all at once without a tray
 </p><p>
 He and the grandmother discussed better times. The old lady said that in her opinion Europe was entirely to blame for the way things were now. She said the way Europe acted you would think we were made of money and Red Sam said it was no use talking about it, she was exactly right. The children ran outside into the white sunlight and looked at the monkey in the lacy chinaberry tree. He was busy catching fleas on himself and biting each one carefully between his teeth as if it were a delicacy.
 </p><p>
-They drove off again into the hot afternoon. The grand- mother took cat naps and woke up every few minutes with her own snoring. Outside of Toombsboro she woke up and recalled an old plantation that she had visited in this neighborhood once when she was a young lady. She said the house had six white columns across the front and that there was an avenue of oaks leading up to it and two little wooden trellis
-</p><p>
-A GOOD MAN IS HARD TO FIND 143
-</p><p>
-arbors on either side in front where you sat down with your suitor after a stroll in the garden. She recalled exactly which road to turn off to get to it. She knew that Bailey would not be willing to lose any time looking at an old house, but the more she talked about it, the more she wanted to see it once again and find out if the little twin arbors were still standing. "There was a secret panel in this house," she said craftily, not telling the truth but wishing that she were, "and the story went that all the family silver was hidden in it when Sherman came through but it was never found . . ."
+They drove off again into the hot afternoon. The grand- mother took cat naps and woke up every few minutes with her own snoring. Outside of Toombsboro she woke up and recalled an old plantation that she had visited in this neighborhood once when she was a young lady. She said the house had six white columns across the front and that there was an avenue of oaks leading up to it and two little wooden trellis arbors on either side in front where you sat down with your suitor after a stroll in the garden. She recalled exactly which road to turn off to get to it. She knew that Bailey would not be willing to lose any time looking at an old house, but the more she talked about it, the more she wanted to see it once again and find out if the little twin arbors were still standing. "There was a secret panel in this house," she said craftily, not telling the truth but wishing that she were, "and the story went that all the family silver was hidden in it when Sherman came through but it was never found . . ."
 </p><p>
 "Hey!" John Wesley said. "Let's go see it! We'll find it! We'll poke all the woodwork and find it! Who lives there? Where do you turn off at? Hey Pop, can't we turn off there?"
 </p><p>
