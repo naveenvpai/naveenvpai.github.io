@@ -200,9 +200,11 @@ function safeSetCurrentParagraph(pageParam, index) {
 
 /*
 displays a given paragraph with no validation on text
+scrolls to top of the window
 */
 function displayStoryText(text) {
     getElementById(storyId).innerHTML = text;
+    window.scrollTo(0,0);
 }
 
 /*
@@ -303,9 +305,9 @@ function registerSwipeEvents(pageParam) {
             }                       
         } else {
             if ( yDiff > 0 ) {
-                toggleShowMenu(false);
-            } else { 
                 toggleShowMenu(true);
+            } else { 
+                toggleShowMenu(false);
             }                                                                 
         }
         /* reset values */
