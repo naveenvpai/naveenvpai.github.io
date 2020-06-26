@@ -1,7 +1,8 @@
 gloverTitle=`Because the Internet`
 gloverAuthor=`by Donald Glover`
 gloverCopyright=`SDFG-FGSD: CODE: 12.10.13SIXTY`
-gloverText=`NOTE TO READER: THE PRELUDE TO THIS SCREENPLAY (“CLAPPING FOR THE WRONG REASONS”) IS AVAILABLE ON THE WEBSITE YOUTUBE FOR FREE CONSUMPTION. IT MAY OR MAY NOT GIVE CONTEXT TO THIS WORK YOU’RE READING.
+gloverText=`
+NOTE TO READER: THE PRELUDE TO THIS SCREENPLAY (“CLAPPING FOR THE WRONG REASONS”) IS AVAILABLE ON THE WEBSITE YOUTUBE FOR FREE CONSUMPTION. IT MAY OR MAY NOT GIVE CONTEXT TO THIS WORK YOU’RE READING.
 You can’t live your life on a bus... 
 EXT. CHURCH PARKING LOT - DAY 
 A white bus opens it’s door and a flood of children run off laughing and screaming. After the initial burst, three girls get off laughing. After them, A LITTLE BOY steps off. He’s walking slow and somber. 
