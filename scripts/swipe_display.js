@@ -142,7 +142,7 @@ function displayHelpDialogue(onMobile) {
     var helpString;
     if (onMobile) {
         // helpString = "Swipe left and right between paragraphs."
-        helpString = "Tap left and right between paragraphs hello times four."
+        helpString = "Tap left and right between paragraphs hello times five."
     } else {
         helpString = "Use left and right arrow keys to change paragraphs."
     }
@@ -308,104 +308,104 @@ and vertically (toggle menu)
 
 https://stackoverflow.com/questions/2264072/detect-a-finger-swipe-through-javascript-on-the-iphone-and-android
 */
-function registerSwipeEvents(pageParam) {
-    document.addEventListener('touchstart', handleTouchStart, false);        
-    document.addEventListener('touchmove', handleTouchMove, false);
+// function registerSwipeEvents(pageParam) {
+//     document.addEventListener('touchstart', handleTouchStart, false);        
+//     document.addEventListener('touchmove', handleTouchMove, false);
 
-    var xDown = null;                                                        
-    var yDown = null;
+//     var xDown = null;                                                        
+//     var yDown = null;
 
-    function getTouches(evt) {
-      return evt.touches ||             // browser API
-             evt.originalEvent.touches; // jQuery
-    }                                                     
+//     function getTouches(evt) {
+//       return evt.touches ||             // browser API
+//              evt.originalEvent.touches; // jQuery
+//     }                                                     
 
-    function handleTouchStart(evt) {
-        const firstTouch = getTouches(evt)[0];                                      
-        xDown = firstTouch.clientX;                                      
-        yDown = firstTouch.clientY;                                      
-    };                                                
+//     function handleTouchStart(evt) {
+//         const firstTouch = getTouches(evt)[0];                                      
+//         xDown = firstTouch.clientX;                                      
+//         yDown = firstTouch.clientY;                                      
+//     };                                                
 
-    function handleTouchMove(evt) {
-        if ( ! xDown || ! yDown ) {
-            return;
-        }
+//     function handleTouchMove(evt) {
+//         if ( ! xDown || ! yDown ) {
+//             return;
+//         }
 
-        var xUp = evt.touches[0].clientX;                                    
-        var yUp = evt.touches[0].clientY;
+//         var xUp = evt.touches[0].clientX;                                    
+//         var yUp = evt.touches[0].clientY;
 
-        var xDiff = xDown - xUp;
-        var yDiff = yDown - yUp;
+//         var xDiff = xDown - xUp;
+//         var yDiff = yDown - yUp;
 
-        if (Math.abs(xDiff) < swipeThreshold && Math.abs(yDiff) < swipeThreshold) {
-            return;
-        }
+//         if (Math.abs(xDiff) < swipeThreshold && Math.abs(yDiff) < swipeThreshold) {
+//             return;
+//         }
 
-        if ( Math.abs( xDiff ) > Math.abs( yDiff ) ) {/*most significant*/
-            if ( xDiff > 0 ) {
-                displayNextParagraph(pageParam);
-            } else {
-                displayPreviousParagraph(pageParam);
-            }                       
-        } else {
-            if ( yDiff > 0 ) {
-                // toggleShowMenu(true);
-            } else { 
-                // toggleShowMenu(false);
-            }                                                                 
-        }
-        /* reset values */
-        xDown = null;
-        yDown = null;                                             
-    };
-}
+//         if ( Math.abs( xDiff ) > Math.abs( yDiff ) ) {/*most significant*/
+//             if ( xDiff > 0 ) {
+//                 displayNextParagraph(pageParam);
+//             } else {
+//                 displayPreviousParagraph(pageParam);
+//             }                       
+//         } else {
+//             if ( yDiff > 0 ) {
+//                 // toggleShowMenu(true);
+//             } else { 
+//                 // toggleShowMenu(false);
+//             }                                                                 
+//         }
+//         /* reset values */
+//         xDown = null;
+//         yDown = null;                                             
+//     };
+// }
 
-/**
-precondition: on mobile page
+// /**
+// precondition: on mobile page
 
-registers when mobile user taps on certain side of screen to switch paragraphs
-*/
-function registerTapEvents(pageParam) {
-    document.addEventListener('touchstart', handleTouchStart, false);        
-    document.addEventListener('touchend', handleTouchEnd, false);
+// registers when mobile user taps on certain side of screen to switch paragraphs
+// */
+// function registerTapEvents(pageParam) {
+//     document.addEventListener('touchstart', handleTouchStart, false);        
+//     document.addEventListener('touchend', handleTouchEnd, false);
 
-    var xDown = null;                                                        
-    var yDown = null;
+//     var xDown = null;                                                        
+//     var yDown = null;
 
-    function getTouches(evt) {
-      return evt.touches ||             // browser API
-             evt.originalEvent.touches; // jQuery
-    }                                                     
+//     function getTouches(evt) {
+//       return evt.touches ||             // browser API
+//              evt.originalEvent.touches; // jQuery
+//     }                                                     
 
-    function handleTouchStart(evt) {
-        const firstTouch = getTouches(evt)[0];                                      
-        xDown = firstTouch.clientX;                                      
-        yDown = firstTouch.clientY;                                      
-    };                                                
+//     function handleTouchStart(evt) {
+//         const firstTouch = getTouches(evt)[0];                                      
+//         xDown = firstTouch.clientX;                                      
+//         yDown = firstTouch.clientY;                                      
+//     };                                                
 
-    function handleTouchEnd(evt) {
-        if ( ! xDown || ! yDown ) {
-            return;
-        }
+//     function handleTouchEnd(evt) {
+//         if ( ! xDown || ! yDown ) {
+//             return;
+//         }
 
-        // source: https://stackoverflow.com/questions/1248081/how-to-get-the-browser-viewport-dimensions
-        const vw = Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0);
-        const vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+//         // source: https://stackoverflow.com/questions/1248081/how-to-get-the-browser-viewport-dimensions
+//         const vw = Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0);
+//         const vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
 
-        var xUp = evt.touches[0].clientX;                                    
-        var yUp = evt.touches[0].clientY;
+//         var xUp = evt.touches[0].clientX;                                    
+//         var yUp = evt.touches[0].clientY;
 
-        if (xDown > vw*(1-tapRegion) && xUp > vw*(1-tapRegion)) {
-            displayNextParagraph(pageParam);
-        } else if (xDown < vw*tapRegion && xUp < vw*tapRegion) {
-            displayPreviousParagraph(pageParam);
-        }
+//         if (xDown > vw*(1-tapRegion) && xUp > vw*(1-tapRegion)) {
+//             displayNextParagraph(pageParam);
+//         } else if (xDown < vw*tapRegion && xUp < vw*tapRegion) {
+//             displayPreviousParagraph(pageParam);
+//         }
 
-        /* reset values */
-        xDown = null;
-        yDown = null;                                             
-    };
-}
+//         /* reset values */
+//         xDown = null;
+//         yDown = null;                                             
+//     };
+// }
 
 /**
 precondition: on mobile page
