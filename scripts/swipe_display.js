@@ -6,8 +6,8 @@ Main code is located at very bottom of the file, with plentiful helper methods
 above it.
 */
 
-maxParLen = 280
-tapRegion = 1/3
+maxParLen = 280;
+tapRegion = 1/3;
 
 titleId = "title";
 storyId = "story";
@@ -407,6 +407,33 @@ function registerTapEvents(pageParam) {
     };
 }
 
+/**
+precondition: on mobile page
+
+registers when mobile user taps on certain side of screen to switch paragraphs
+*/
+function registerTapEvents2(pageParam) {
+    document.addEventListener('touchstart', handleTouchStart, false);        
+
+    function getTouches(evt) {
+      return evt.touches ||             // browser API
+             evt.originalEvent.touches; // jQuery
+    }                                                     
+
+    function handleTouchStart(evt) {
+        const firstTouch = getTouches(evt)[0];                                      
+        var xDown = firstTouch.clientX;                                      
+        var yDown = firstTouch.clientY;
+
+
+        if (xDown > vw*(1-tapRegion)) {
+            displayNextParagraph(pageParam);
+        } else if (xDown < vw*tapRegion) {
+            displayPreviousParagraph(pageParam);
+        }
+    }                                
+}
+
 /*
 Precondition: user should be on web and pageParam is valid
 
@@ -457,7 +484,7 @@ if (isValidParam(pageParam)) {
     displayHelpDialogue(onMobile);
 
     if (onMobile) {
-        registerTapEvents(pageParam);
+        registerTapEvents2(pageParam);
     } else {
         registerArrowKeys(pageParam);
     }
