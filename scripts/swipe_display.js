@@ -113,6 +113,10 @@ function getTitle(pageParam) {
     return storyData[pageParam]["title"];
 }
 
+function getCopyright(pageParam) {
+    return storyData[pageParam]["copyright"];
+}
+
 /*
 precondition: onMobile is true iff the user is viewing the page on mobile
 
@@ -272,9 +276,11 @@ function displayPreviousParagraph(pageParam) {
 precondition: pageParam is valid
 
 sets the title of the page to that of the given story
+as well as the copyright info
 */
 function populateTitle(pageParam) {
     getElementById(titleId).innerHTML = getTitle(pageParam);
+    getElementById(detailId).innerHTML = getCopyright(pageParam);
 }
 
 /*
