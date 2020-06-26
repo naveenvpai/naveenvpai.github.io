@@ -144,7 +144,7 @@ function displayHelpDialogue(onMobile) {
         // helpString = "Swipe left and right between paragraphs."
         helpString = "Tap left and right between paragraphs."
     } else {
-        helpString = "Use left and right arrow keys to change paragraphs."
+        helpString = "Use left and right arrow keys to change paragraphs hello."
     }
     getElementById(helpId).innerHTML = helpString;
 }
