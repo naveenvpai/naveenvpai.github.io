@@ -142,7 +142,7 @@ function displayHelpDialogue(onMobile) {
     var helpString;
     if (onMobile) {
         // helpString = "Swipe left and right between paragraphs."
-        helpString = "Tap left and right between paragraphs hello times six."
+        helpString = "Tap left and right between paragraphs hello times seven."
     } else {
         helpString = "Use left and right arrow keys to change paragraphs."
     }
@@ -421,9 +421,14 @@ function registerTapEvents2(pageParam) {
     }                                                     
 
     function handleTouchStart(evt) {
+        getElementById(storyId).innerHTML = 'asdfasdf'
         const firstTouch = getTouches(evt)[0];                                      
         var xDown = firstTouch.clientX;                                      
         var yDown = firstTouch.clientY;
+
+        // source: https://stackoverflow.com/questions/1248081/how-to-get-the-browser-viewport-dimensions
+        const vw = Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0);
+        const vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
 
         getElementById(storyId).innerHTML = "debug: "+xDown+", "+(vw*(1-tapRegion))+", "+(vw*tapRegion)
 
