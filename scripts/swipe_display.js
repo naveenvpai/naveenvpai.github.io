@@ -42,7 +42,7 @@ storyData = {
     }
 };
 
-swipeThreshold = 70
+swipeThreshold = 35
 
 /*
 behaves as getElementById, intended to make it easier to switch from
@@ -465,8 +465,16 @@ function registerTapEvents2(pageParam) {
     }
 
     function handleTouchMove(evt) {
-        xDown = null;
-        yDown = null;
+        const firstTouch = getTouches(evt)[0];                                      
+        var xMove = firstTouch.clientX;                                      
+        var yMove = firstTouch.clientY;
+        if (!xDown || !yDown) {
+            if (Math.abs(xMove-xDown) > swipeThreshold || 
+                Math.abs(yMove-yDown) > swipeThreshold) {
+                xDown = null;
+                yDown = null;
+            }
+        }
     }
 
     function handleTouchEnd(evt) {
