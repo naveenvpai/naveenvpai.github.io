@@ -468,7 +468,7 @@ function registerTapEvents2(pageParam) {
         const firstTouch = getTouches(evt)[0];                                      
         var xMove = firstTouch.clientX;                                      
         var yMove = firstTouch.clientY;
-        if (!xDown || !yDown) {
+        if (xDown || yDown) {
             if (Math.abs(xMove-xDown) > swipeThreshold || 
                 Math.abs(yMove-yDown) > swipeThreshold) {
                 xDown = null;
