@@ -47,6 +47,11 @@ h1, h2 {
   width: 95%;
 }
 
+.middle p {
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
 .help {
     font-family: "Georgia";
     font-size: 0.5em;
@@ -119,7 +124,7 @@ h1, h2 {
   width: 100%;
 }
 
-.nav-toggle .nav-toggle-bar { margin-top: 0; }
+.nav-toggle .nav-toggle-bar { margin-top: 0; margin-right: 10px; }
 
 .nav-toggle .nav-toggle-bar::after { margin-top: 0.8rem; }
 
