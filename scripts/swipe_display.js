@@ -142,7 +142,7 @@ function displayHelpDialogue(onMobile) {
     var helpString;
     if (onMobile) {
         // helpString = "Swipe left and right between paragraphs."
-        helpString = "Tap left and right between paragraphs hello."
+        helpString = "Tap left and right between paragraphs hello times two."
     } else {
         helpString = "Use left and right arrow keys to change paragraphs."
     }
@@ -425,6 +425,7 @@ function registerTapEvents2(pageParam) {
         var xDown = firstTouch.clientX;                                      
         var yDown = firstTouch.clientY;
 
+        getElementById(storyId).innerHTML = "debug: "+xDown+", "+(vw*(1-tapRegion))+", "+(vw*tapRegion)
 
         if (xDown > vw*(1-tapRegion)) {
             displayNextParagraph(pageParam);
