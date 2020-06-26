@@ -141,7 +141,8 @@ display dialogue cluing user about how to view next paragraph
 function displayHelpDialogue(onMobile) {
     var helpString;
     if (onMobile) {
-        helpString = "Swipe left and right between paragraphs."
+        // helpString = "Swipe left and right between paragraphs."
+        helpString = "Tap left and right between paragraphs."
     } else {
         helpString = "Use left and right arrow keys to change paragraphs."
     }
