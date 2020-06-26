@@ -9,6 +9,7 @@ above it.
 maxParLen = -1;
 tapRegion = 1/3;
 
+
 titleId = "title";
 authorId = "author";
 secondTitleId = "secondTitle";
@@ -17,6 +18,7 @@ storyId = "story";
 detailId = "copyright";
 helpId = "help";
 backId = "backlink";
+tapEnabled = true;
 
 storyData = {
     "ccs": {
@@ -446,9 +448,9 @@ precondition: on mobile page
 registers when mobile user taps on certain side of screen to switch paragraphs
 */
 function registerTapEvents2(pageParam) {
-    getElementById("touchable").addEventListener('touchstart', handleTouchStart, false);
-    getElementById("touchable").addEventListener('touchmove', handleTouchMove, false);
-    getElementById("touchable").addEventListener('touchend', handleTouchEnd, false);        
+    document.addEventListener('touchstart', handleTouchStart, false);
+    document.addEventListener('touchmove', handleTouchMove, false);
+    document.addEventListener('touchend', handleTouchEnd, false);        
 
     var xDown = null;
     var yDown = null; 
@@ -486,7 +488,7 @@ function registerTapEvents2(pageParam) {
         const vw = Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0);
         const vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
 
-        if (yDown > vh*tapRegion) {
+        if (yDown > vh*tapRegion && tapEnabled) {
             if (xDown > vw*(1-tapRegion)) {
                 displayNextParagraph(pageParam);
             } else if (xDown < vw*tapRegion) {
@@ -538,6 +540,7 @@ function registerHamburger() {
       e.preventDefault();
       this.navToggle.classList.toggle('expanded');
       this.nav.classList.toggle('expanded');
+      tapEnabled = !tapEnabled;
     }
   };
 
