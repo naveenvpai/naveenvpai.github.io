@@ -426,7 +426,6 @@ function registerTapEvents2(pageParam) {
     }                                                     
 
     function handleTouchStart(evt) {
-        getElementById(storyId).innerHTML = 'asdfasdf'
         const firstTouch = getTouches(evt)[0];                                      
         var xDown = firstTouch.clientX;                                      
         var yDown = firstTouch.clientY;
