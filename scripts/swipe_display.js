@@ -6,7 +6,7 @@ Main code is located at very bottom of the file, with plentiful helper methods
 above it.
 */
 
-maxParLen = 280;
+maxParLen = -1;
 tapRegion = 1/3;
 
 titleId = "title";
@@ -106,16 +106,21 @@ function getParagraphs(pageParam) {
         return storyData[pageParam][memoKey];
     }
     var longPars = storyData[pageParam]["body"].split(storyData[pageParam]["delimiter"]);
-    var shortPars = []
-    for (var i = 0; i < longPars.length; i++) {
-        for (var j = 0; j < longPars[i].length; ) {
-            var nextPar = longPars[i].substring(j,Math.min(j+maxParLen,longPars[i].length))
-            shortPars.push(nextPar)
-            j += maxParLen;
+    if (maxParLen > 0) {
+        var shortPars = []
+        for (var i = 0; i < longPars.length; i++) {
+            for (var j = 0; j < longPars[i].length; ) {
+                var nextPar = longPars[i].substring(j,Math.min(j+maxParLen,longPars[i].length))
+                shortPars.push(nextPar)
+                j += maxParLen;
+            }
         }
+        storyData[pageParam][memoKey] = shortPars; 
+        return shortPars;
+    } else {
+        storyData[pageParam][memoKey] = longPars
     }
-    storyData[pageParam][memoKey] = shortPars; 
-    return shortPars;
+    return longPars;
 }
 
 /*
@@ -142,7 +147,7 @@ function displayHelpDialogue(onMobile) {
     var helpString;
     if (onMobile) {
         // helpString = "Swipe left and right between paragraphs."
-        helpString = "Tap left and right between paragraphs hello times."
+        helpString = "Tap left and right between paragraphs."
     } else {
         helpString = "Use left and right arrow keys to change paragraphs."
     }
