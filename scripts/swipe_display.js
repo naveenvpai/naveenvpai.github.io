@@ -142,7 +142,7 @@ function displayHelpDialogue(onMobile) {
     var helpString;
     if (onMobile) {
         // helpString = "Swipe left and right between paragraphs."
-        helpString = "Tap left and right between paragraphs hello times seven."
+        helpString = "Tap left and right between paragraphs hello times."
     } else {
         helpString = "Use left and right arrow keys to change paragraphs."
     }
@@ -430,13 +430,11 @@ function registerTapEvents2(pageParam) {
         const vw = Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0);
         const vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
 
-        getElementById(storyId).innerHTML = "debug: "+xDown+", "+(vw*(1-tapRegion))+", "+(vw*tapRegion)
-
-        // if (xDown > vw*(1-tapRegion)) {
-        //     displayNextParagraph(pageParam);
-        // } else if (xDown < vw*tapRegion) {
-        //     displayPreviousParagraph(pageParam);
-        // }
+        if (xDown > vw*(1-tapRegion)) {
+            displayNextParagraph(pageParam);
+        } else if (xDown < vw*tapRegion) {
+            displayPreviousParagraph(pageParam);
+        }
     }                                
 }
 
