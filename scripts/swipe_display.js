@@ -446,9 +446,9 @@ precondition: on mobile page
 registers when mobile user taps on certain side of screen to switch paragraphs
 */
 function registerTapEvents2(pageParam) {
-    document.addEventListener('touchstart', handleTouchStart, false);
-    document.addEventListener('touchmove', handleTouchMove, false);
-    document.addEventListener('touchend', handleTouchEnd, false);        
+    getElementById("touchable").addEventListener('touchstart', handleTouchStart, false);
+    getElementById("touchable").addEventListener('touchmove', handleTouchMove, false);
+    getElementById("touchable").addEventListener('touchend', handleTouchEnd, false);        
 
     var xDown = null;
     var yDown = null; 
