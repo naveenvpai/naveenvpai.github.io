@@ -427,11 +427,11 @@ function registerTapEvents2(pageParam) {
 
         getElementById(storyId).innerHTML = "debug: "+xDown+", "+(vw*(1-tapRegion))+", "+(vw*tapRegion)
 
-        if (xDown > vw*(1-tapRegion)) {
-            displayNextParagraph(pageParam);
-        } else if (xDown < vw*tapRegion) {
-            displayPreviousParagraph(pageParam);
-        }
+        // if (xDown > vw*(1-tapRegion)) {
+        //     displayNextParagraph(pageParam);
+        // } else if (xDown < vw*tapRegion) {
+        //     displayPreviousParagraph(pageParam);
+        // }
     }                                
 }
 
