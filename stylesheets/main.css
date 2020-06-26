@@ -14,7 +14,8 @@ a {
 
 html {
   font-family: Arial, Helvetica, sans-serif;
-  background: #292828;
+  /*background: #292828;*/
+  background-color: rgb(0,0,0);
   color: white;
 }
 

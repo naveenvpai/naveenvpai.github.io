@@ -382,7 +382,8 @@ if (isValidParam(pageParam)) {
     } else {
         registerArrowKeys(pageParam);
     }
-    displayParagraph(pageParam, 0, true);
+    var currPar = safeGetCurrentParagraph(pageParam);
+    displayParagraph(pageParam, currPar, false);
 
 } else {
     handleInvalidParam();
