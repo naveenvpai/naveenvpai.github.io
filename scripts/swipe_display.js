@@ -10,6 +10,9 @@ maxParLen = -1;
 tapRegion = 1/3;
 
 titleId = "title";
+authorId = "author";
+secondTitleId = "secondTitle";
+secondAuthorId = "secondAuthor";
 storyId = "story";
 detailId = "copyright";
 helpId = "help";
@@ -18,18 +21,21 @@ backId = "backlink";
 storyData = {
     "ccs": {
         "title": hemingwayTitle,
+        "author": hemingwayAuthor,
         "copyright": hemingwayCopyright,
         "body": hemingwayBody,
         "delimiter": "</p><p>"
     },
     "agmihtf": {
         "title": oconnorTitle,
+        "author": oconnorAuthor,
         "copyright": oconnorCopyright,
         "body": oconnorText,
         "delimiter": "</p><p>"
     },
     "bti": {
         "title": gloverTitle,
+        "author": gloverAuthor,
         "copyright": gloverCopyright,
         "body": gloverText,
         "delimiter": "\n"
@@ -86,7 +92,7 @@ if wantHide, hides menu
 otherwise, shows menu
 */
 function toggleShowMenu(wantHide) {
-    hideableFields = [titleId, detailId];
+    hideableFields = [titleId, detailId, authorId];
     for (var i = 0; i < hideableFields.length; i++) {
         getElementById(hideableFields[i]).hidden = wantHide;
     }   
@@ -134,6 +140,24 @@ function getTitle(pageParam) {
     return storyData[pageParam]["title"];
 }
 
+/*
+precondition: given page parameter is valid ie. corresponds to a story we have
+
+will eventually move onto server side
+
+return author of the story for given parameter
+*/
+function getAuthor(pageParam) {
+    return storyData[pageParam]["author"];
+}
+
+/*
+precondition: given page parameter is valid ie. corresponds to a story we have
+
+will eventually move onto server side
+
+return copyright of the story for given parameter
+*/
 function getCopyright(pageParam) {
     return storyData[pageParam]["copyright"];
 }
@@ -302,7 +326,11 @@ as well as the copyright info
 */
 function populateTitle(pageParam) {
     getElementById(titleId).innerHTML = getTitle(pageParam);
+    getElementById(secondTitleId).innerHTML = getTitle(pageParam);
     getElementById(detailId).innerHTML = getCopyright(pageParam);
+
+    getElementById(authorId).innerHTML = getAuthor(pageParam);
+    getElementById(secondAuthorId).innerHTML = getAuthor(pageParam);
 }
 
 /*
@@ -418,25 +446,45 @@ precondition: on mobile page
 registers when mobile user taps on certain side of screen to switch paragraphs
 */
 function registerTapEvents2(pageParam) {
-    document.addEventListener('touchstart', handleTouchStart, false);        
+    document.addEventListener('touchstart', handleTouchStart, false);
+    document.addEventListener('touchmove', handleTouchMove, false);
+    document.addEventListener('touchend', handleTouchEnd, false);        
+
+    var xDown = null;
+    var yDown = null; 
 
     function getTouches(evt) {
       return evt.touches ||             // browser API
              evt.originalEvent.touches; // jQuery
-    }                                                     
+    }                                                    
 
     function handleTouchStart(evt) {
         const firstTouch = getTouches(evt)[0];                                      
-        var xDown = firstTouch.clientX;                                      
-        var yDown = firstTouch.clientY;
+        xDown = firstTouch.clientX;                                      
+        yDown = firstTouch.clientY;
+    }
+
+    function handleTouchMove(evt) {
+        xDown = null;
+        yDown = null;
+    }
+
+    function handleTouchEnd(evt) {
+        if (!xDown || !yDown) {
+            return;
+        }
+
+        const firstTouch = getTouches(evt)[0];                                      
+        var xUp = firstTouch.clientX;                                      
+        var yUp = firstTouch.clientY;
 
         // source: https://stackoverflow.com/questions/1248081/how-to-get-the-browser-viewport-dimensions
         const vw = Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0);
         const vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
 
-        if (xDown > vw*(1-tapRegion)) {
+        if (xUp > vw*(1-tapRegion)) {
             displayNextParagraph(pageParam);
-        } else if (xDown < vw*tapRegion) {
+        } else if (xUp < vw*tapRegion) {
             displayPreviousParagraph(pageParam);
         }
     }                                
@@ -472,6 +520,27 @@ function registerArrowKeys(pageParam) {
 }
 
 /*
+    source: https://www.cssscript.com/basic-hamburger-toggle-menu-css-vanilla-javascript/
+*/
+function registerHamburger() {
+
+  var hamburger = {
+    navToggle: document.querySelector('.nav-toggle'),
+    nav: document.querySelector('nav'),
+
+    doToggle: function(e) {
+      e.preventDefault();
+      this.navToggle.classList.toggle('expanded');
+      this.nav.classList.toggle('expanded');
+    }
+  };
+
+  hamburger.navToggle.addEventListener('click', function(e) { hamburger.doToggle(e); });
+  hamburger.nav.addEventListener('click', function(e) { hamburger.doToggle(e); });
+
+}
+
+/*
     Source: https://stackoverflow.com/questions/11381673/detecting-a-mobile-browser
 
     returns whether current user is on mobile (this includes tablet) or not
@@ -496,6 +565,7 @@ if (isValidParam(pageParam)) {
     } else {
         registerArrowKeys(pageParam);
     }
+    registerHamburger();
     var currPar = safeGetCurrentParagraph(pageParam);
     displayParagraph(pageParam, currPar, false);
 
