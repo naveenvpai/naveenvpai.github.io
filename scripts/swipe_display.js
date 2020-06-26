@@ -6,6 +6,7 @@ Main code is located at very bottom of the file, with plentiful helper methods
 above it.
 */
 
+maxParLen = 280
 
 titleId = "title";
 storyId = "story";
@@ -99,7 +100,21 @@ return a list of paragraphs for the given page parameter, intended to
 be viewed one at a time
 */
 function getParagraphs(pageParam) {
-    return storyData[pageParam]["body"].split(storyData[pageParam]["delimiter"]);
+    var memoKey = "paragraphs"
+    if (storyData[pageParam][memoKey]) {
+        return storyData[pageParam][memoKey];
+    }
+    var longPars = storyData[pageParam]["body"].split(storyData[pageParam]["delimiter"]);
+    var shortPars = []
+    for (var i = 0; i < longPars.length; i++) {
+        for (var j = 0; j < longPars[i].length; ) {
+            var nextPar = longPars[i].substring(j,Math.min(j+maxParLen,longPars[i].length))
+            shortPars.push(nextPar)
+            j += maxParLen;
+        }
+    }
+    storyData[pageParam][memoKey] = shortPars; 
+    return shortPars;
 }
 
 /*
