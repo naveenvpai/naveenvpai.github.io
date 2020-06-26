@@ -173,12 +173,16 @@ function getCookie(cname) {
 }
 
 /*
-gets current paragraph for given page, if none exists sets it to 0 and returns 0
+checks cookie for given page, returns null if none exists
 
 NOTE: doesn't check if pageParam is valid
 */
 function getCurrentParagraphCookie(pageParam) {
-    return parseInt(getCookie(getCookieName(pageParam)));
+    var cookieStr = getCookie(getCookieName(pageParam));
+    if (cookieStr != null) {
+        return parseInt(cookieStr);
+    }
+    return null;
 }
 
 /*
@@ -189,7 +193,7 @@ NOTE: doesn't check if pageParam is valid
 */
 function safeGetCurrentParagraph(pageParam) {
     var currParagraph = getCurrentParagraphCookie(pageParam);
-    if (currParagraph == null) {
+    if (!currParagraph) {
         setCurrentParagraphCookie(pageParam, 0);
         currParagraph = 0;
     }
