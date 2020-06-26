@@ -483,7 +483,9 @@ function registerTapEvents2(pageParam) {
             getElementById(storyId).innerHTML = 'cancel';
             return;
         }
-        const firstTouch = getTouches(evt)[0];                                      
+        getElementById(storyId).innerHTML = evt.toString();                                
+        const firstTouch = getTouches(evt)[0];   
+        getElementById(storyId).innerHTML = firstTouch.toString();                                
         var xUp = firstTouch.clientX;                                      
         var yUp = firstTouch.clientY;
 
