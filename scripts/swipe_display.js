@@ -142,7 +142,7 @@ function displayHelpDialogue(onMobile) {
     var helpString;
     if (onMobile) {
         // helpString = "Swipe left and right between paragraphs."
-        helpString = "Tap left and right between paragraphs hello times five."
+        helpString = "Tap left and right between paragraphs hello times six."
     } else {
         helpString = "Use left and right arrow keys to change paragraphs."
     }
@@ -413,7 +413,7 @@ precondition: on mobile page
 registers when mobile user taps on certain side of screen to switch paragraphs
 */
 function registerTapEvents2(pageParam) {
-    document.addEventListener('click', handleTouchStart, false);        
+    document.addEventListener('touchstart', handleTouchStart, false);        
 
     function getTouches(evt) {
       return evt.touches ||             // browser API
