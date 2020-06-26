@@ -80,13 +80,13 @@ function handleInvalidParam() {
 }
 
 /*
-if wantShow, shows menu
-otherwise, hides menu
+if wantHide, hides menu
+otherwise, shows menu
 */
-function toggleShowMenu(wantShow) {
-    hideableFields = [titleId, detailId, backId];
+function toggleShowMenu(wantHide) {
+    hideableFields = [titleId, detailId];
     for (var i = 0; i < hideableFields.length; i++) {
-        getElementById(hideableFields[i]).hidden = wantShow;
+        getElementById(hideableFields[i]).hidden = wantHide;
     }   
 }
 
@@ -121,9 +121,9 @@ display dialogue cluing user about how to view next paragraph
 function displayHelpDialogue(onMobile) {
     var helpString;
     if (onMobile) {
-        helpString = "Swipe left and right between paragraphs. Swipe up/down to view/hide menu."
+        helpString = "Swipe left and right between paragraphs."
     } else {
-        helpString = "Use left and right arrow keys to change paragraphs. Up/down arrow keys to view/hide menu."
+        helpString = "Use left and right arrow keys to change paragraphs."
     }
     getElementById(helpId).innerHTML = helpString;
 }
@@ -231,6 +231,11 @@ function displayParagraph(pageParam, index, store) {
         }
         displayStoryText(paragraphs[index]);
     }
+    if (index > 0) {
+        toggleShowMenu(true);
+    } else {
+        toggleShowMenu(false);
+    }
 }
 
 /*
@@ -317,9 +322,9 @@ function registerSwipeEvents(pageParam) {
             }                       
         } else {
             if ( yDiff > 0 ) {
-                toggleShowMenu(true);
+                // toggleShowMenu(true);
             } else { 
-                toggleShowMenu(false);
+                // toggleShowMenu(false);
             }                                                                 
         }
         /* reset values */
@@ -343,10 +348,10 @@ function registerArrowKeys(pageParam) {
         e = e || window.event;
 
         if (e.keyCode == '38') {
-            toggleShowMenu(false);
+            // toggleShowMenu(false);
         }
         else if (e.keyCode == '40') {
-            toggleShowMenu(true);
+            // toggleShowMenu(true);
         }
         else if (e.keyCode == '37') {
             displayPreviousParagraph(pageParam);
