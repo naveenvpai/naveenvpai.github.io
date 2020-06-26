@@ -7,6 +7,7 @@ above it.
 */
 
 maxParLen = 280
+tapRegion = 1/3
 
 titleId = "title";
 storyId = "story";
@@ -358,6 +359,53 @@ function registerSwipeEvents(pageParam) {
     };
 }
 
+/**
+precondition: on mobile page
+
+registers when mobile user taps on certain side of screen to switch paragraphs
+*/
+function registerTapEvents(pageParam) {
+    document.addEventListener('touchstart', handleTouchStart, false);        
+    document.addEventListener('touchend', handleTouchEnd, false);
+
+    var xDown = null;                                                        
+    var yDown = null;
+
+    function getTouches(evt) {
+      return evt.touches ||             // browser API
+             evt.originalEvent.touches; // jQuery
+    }                                                     
+
+    function handleTouchStart(evt) {
+        const firstTouch = getTouches(evt)[0];                                      
+        xDown = firstTouch.clientX;                                      
+        yDown = firstTouch.clientY;                                      
+    };                                                
+
+    function handleTouchEnd(evt) {
+        if ( ! xDown || ! yDown ) {
+            return;
+        }
+
+        // source: https://stackoverflow.com/questions/1248081/how-to-get-the-browser-viewport-dimensions
+        const vw = Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0);
+        const vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+
+        var xUp = evt.touches[0].clientX;                                    
+        var yUp = evt.touches[0].clientY;
+
+        if (xDown > vw*(1-tapRegion) && xUp > vw*(1-tapRegion)) {
+            displayNextParagraph(pageParam);
+        } else if (xDown < vw*tapRegion && xUp < vw*tapRegion) {
+            displayPreviousParagraph(pageParam);
+        }
+
+        /* reset values */
+        xDown = null;
+        yDown = null;                                             
+    };
+}
+
 /*
 Precondition: user should be on web and pageParam is valid
 
@@ -408,7 +456,7 @@ if (isValidParam(pageParam)) {
     displayHelpDialogue(onMobile);
 
     if (onMobile) {
-        registerSwipeEvents(pageParam);
+        registerTapEvents(pageParam);
     } else {
         registerArrowKeys(pageParam);
     }
