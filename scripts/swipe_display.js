@@ -478,10 +478,12 @@ function registerTapEvents2(pageParam) {
     }
 
     function handleTouchEnd(evt) {
+        getElementById(storyId).innerHTML = 'start';
         if (!xDown || !yDown) {
+            getElementById(storyId).innerHTML = 'cancel';
             return;
         }
-
+        getElementById(storyId).innerHTML = 'continue';
         const firstTouch = getTouches(evt)[0];                                      
         var xUp = firstTouch.clientX;                                      
         var yUp = firstTouch.clientY;
