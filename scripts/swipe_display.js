@@ -25,8 +25,16 @@ storyData = {
         "copyright": oconnorCopyright,
         "body": oconnorText,
         "delimiter": "</p><p>"
+    },
+    "bti": {
+        "title": gloverTitle,
+        "copyright": gloverCopyright,
+        "body": gloverText,
+        "delimiter": "\n"
     }
 };
+
+swipeThreshold = 70
 
 /*
 behaves as getElementById, intended to make it easier to switch from
@@ -296,6 +304,10 @@ function registerSwipeEvents(pageParam) {
 
         var xDiff = xDown - xUp;
         var yDiff = yDown - yUp;
+
+        if (Math.abs(xDiff) < swipeThreshold && Math.abs(yDiff) < swipeThreshold) {
+            return;
+        }
 
         if ( Math.abs( xDiff ) > Math.abs( yDiff ) ) {/*most significant*/
             if ( xDiff > 0 ) {
