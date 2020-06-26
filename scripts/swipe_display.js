@@ -478,27 +478,17 @@ function registerTapEvents2(pageParam) {
     }
 
     function handleTouchEnd(evt) {
-        getElementById(storyId).innerHTML = 'start';
         if (!xDown || !yDown) {
-            getElementById(storyId).innerHTML = 'cancel';
             return;
         }
-        getElementById(storyId).innerHTML = evt.touches.length.toString();                                
-        const firstTouch = getTouches(evt)[0];   
-        getElementById(storyId).innerHTML = firstTouch.toString();                                
-        var xUp = firstTouch.clientX;                                      
-        var yUp = firstTouch.clientY;
-
 
         // source: https://stackoverflow.com/questions/1248081/how-to-get-the-browser-viewport-dimensions
         const vw = Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0);
         const vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
 
-        getElementById(storyId).innerHTML = xUp.toString()+", "+(vw*(1-tapRegion))+", "+(vw*tapRegion);
-
-        if (xUp > vw*(1-tapRegion)) {
+        if (xDown > vw*(1-tapRegion)) {
             displayNextParagraph(pageParam);
-        } else if (xUp < vw*tapRegion) {
+        } else if (xDown < vw*tapRegion) {
             displayPreviousParagraph(pageParam);
         }
     }                                
