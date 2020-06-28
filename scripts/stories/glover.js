@@ -1,7 +1,7 @@
 gloverTitle=`Because the Internet`
 gloverAuthor=`by Donald Glover`
 gloverCopyright=`SDFG-FGSD: CODE: 12.10.13SIXTY`
-gloverText=`Tap left and right between paragraphs.
+gloverText=`
 NOTE TO READER: THE PRELUDE TO THIS SCREENPLAY (“CLAPPING FOR THE WRONG REASONS”) IS <a href="https://www.youtube.com/embed/Z_bONLcE8IA" target="new">AVAILABLE ON THE WEBSITE YOUTUBE FOR FREE CONSUMPTION</a>. IT MAY OR MAY NOT GIVE CONTEXT TO THIS WORK YOU’RE READING.
 You can’t live your life on a bus... 
 EXT. CHURCH PARKING LOT - DAY 
@@ -53,7 +53,8 @@ The Boy (more a man now) is sprawled out on his bed, no shirt and flower shorts.
 INT. LIVING ROOM - DAY 
 The Buddha statue again. There’s empty old beer and Pellegrino bottles on the bar. The entire back of the living room wall is glass. The boy walks briskly to the kitchen. 
 INT. KITCHEN - DAY 
-The the kitchen is a slight mess. Things left out. S’mores makings left out. The marshmallows are hard as stones. The boy goes into the cabinet and pulls out a pop tart. He takes out a pop tart and throws it in the microwave, wrapper still on (you’re not supposed to do that). He starts the microwave and begins texting someone. The microwave is okay for about 5 seconds, then blue sparks start to pop inside. 
+The kitchen is a slight mess. Things left out. S’mores makings left out. The marshmallows are hard as stones. The boy goes into the cabinet and pulls out a pop tart. 
+He takes out a pop tart and throws it in the microwave, wrapper still on (you’re not supposed to do that). He starts the microwave and begins texting someone. The microwave is okay for about 5 seconds, then blue sparks start to pop inside. 
 He turns off the microwave, opens it, grabs the pop tart and tosses it on a plate. 
 EXT. BACKYARD - EARLY MORNING 
 The Boy walks onto the little island in the middle of the infinity pool lining the oceans and mountains in the background. The mountains are surrounded by clouds. They’re literally above the clouds. It’s probably raining down there. There’s an orchard with lemon and plums to the west of the wall outside, and a green statue of a golfer further in. Bunnies jump on the lawn in the background. 
@@ -83,7 +84,8 @@ The 911 pulls up to a nice condo complex. Fam honks the horn for a while. Like a
 SOMEONE FROM A WINDOW I work nights, dickhead! 
 FAM I know. Fuck me, right? 
 Fam honks more. 
-The Boy checks his twitter feed. Twitter name “You Are Unimportant - @thegoldmolar” You can see from his feed he just trolls all the time. Politicians, athletes, entertainers, etc. His favorite was simply re-tweeting something someone says. When it was dumb enough to just re- tweet, that was his favorite. He’d gotten a lot of followers that way. Written an article once for a blog. Got more followers. He started posting videos of homeless people doing stuff and fights downtown. 
+The Boy checks his twitter feed. Twitter name “You Are Unimportant - @thegoldmolar” You can see from his feed he just trolls all the time. Politicians, athletes, entertainers, etc. His favorite was simply re-tweeting something someone says. When it was dumb enough to just re- tweet, that was his favorite.
+He’d gotten a lot of followers that way. Written an article once for a blog. Got more followers. He started posting videos of homeless people doing stuff and fights downtown. 
 He was looking for something to retweet on his time-line. People say dumb shit all the time... 
 ...someone tweeted “roscoe’s wetsuit”. 
 “...what’s that?” 
@@ -199,7 +201,8 @@ POP. POP.
 ...run. now. 
 Fam is already running. Everyone in the line is screaming and running. The Boy runs.COP Drop your weapon! 
 (these are cleaner and succinct) POP.POP.POP. 
-Runs to the side of the building. The SUV that was firing slows down. The driver is dead. Car horn blares as the car slows to a stop, mixing with girls crying and “oh shit!” and “fuck”. Jay is very close to dead. The blood on the sidewalk is almost black. A street sign (No parking between 7-9am and 4-7pm) is reflected in the dark blood. He turns to The Boy, looks around. He knows what’s happening. He’s leaving. 
+Runs to the side of the building. The SUV that was firing slows down. The driver is dead. Car horn blares as the car slows to a stop, mixing with girls crying and “oh shit!” and “fuck”. Jay is very close to dead. The blood on the sidewalk is almost black.
+A street sign (No parking between 7-9am and 4-7pm) is reflected in the dark blood. He turns to The Boy, looks around. He knows what’s happening. He’s leaving. 
 That was the end. He’ll never read this sentence. Or any sentence. He ended earlier. Before this sentence. As far as he knows, before any sentence. He’s back to his/the natural state. 
 The Boy felt something. 
 On the internet, you really don’t have to feel much of anything unless you want to. It’s funny, cause this dude is dead. There really isn’t a connection...it’s more him seeing himself for the first time since- 
@@ -504,7 +507,8 @@ SWANK That kid was scared as fuck! He was like [OPEN MOUTH EMOJI].
 FAM (to The Boy) You good? 
 Boy doesn’t say anything. 
 INT. HOTEL LOBBY - NIGHT 
-The guys walk in the lobby. There’s an Indian wedding happening. They’re probably not called Indian weddings. It’s probably just a wedding, but all the people participating happen to be Indian. There’s a bunch of guys talking and quietly laughing in the hall. The door to the banquet room is open as they pass. The Boy stops. The bride and groom are slow dancing. The Bride is quite pretty. Green eyes and dark skin. She’s got the aura of a business woman. Probably met him at Stanford and was like “this is reliable”. The groom looks like a caricature of a good ol’ fashion white dude. 
+The guys walk in the lobby. There’s an Indian wedding happening. They’re probably not called Indian weddings. It’s probably just a wedding, but all the people participating happen to be Indian. There’s a bunch of guys talking and quietly laughing in the hall. The door to the banquet room is open as they pass.
+The Boy stops. The bride and groom are slow dancing. The Bride is quite pretty. Green eyes and dark skin. She’s got the aura of a business woman. Probably met him at Stanford and was like “this is reliable”. The groom looks like a caricature of a good ol’ fashion white dude. 
 STEVE Good for him. 
 SWANK Nah. He don’t get any interracial points. He’s just doing what white guys been doing since forever. Exactly what he wants. 
 AJ Really? Like that? 
@@ -563,7 +567,8 @@ OLDER INDIAN DUDE (CONT'D)
 (to himself) Fuckin Korean kid thinks he know everything. 
 Silence. 
 OLDER INDIAN DUDE (CONT’D) What do you do? 
-THE BOY I troll celebrities, politicians, or anyone with large enough online cache until I get a response. I post those responses and/or convos on my blog. And I charge gossip blogs and advertisers to advertise on my site and sometimes me and my friend put out novelty books of fucked up things we find online while digging up dirt on said celebrities and/ or politicians and sell it to niche book stores or larger stores that fit our aesthetic. 
+THE BOY I troll celebrities, politicians, or anyone with large enough online cache until I get a response. I post those responses and/or convos on my blog. And I charge gossip blogs and advertisers to advertise on my site and sometimes me and
+my friend put out novelty books of fucked up things we find online while digging up dirt on said celebrities and/ or politicians and sell it to niche book stores or larger stores that fit our aesthetic. 
 The man just stares, not understanding. 
 THE BOY (CONT’D) How old are you? 
 OLDER INDIAN DUDE Fifty-three.THE BOY I’m like Bill O'Reilly. 
@@ -579,7 +584,8 @@ Everyone claps.
 Little creatures slowly start to march out from the kitchen. Some have banners that say “HAPPY MARRIAGE!”. Some have sparklers. They all bounce on beat. It’s cute for a very short moment. Then it feels wrong. 
 All the creatures have two legs, two arms, like humans. But they are definitely not humans. One of the giveaways being that they are naked, but don’t seem to have genitals. 
 All the creatures are breathing heavy out their mouths (their noses being two tiny slits probably don’t allow for heavy air traffic). 
-They’re about three feet high. Their eyes are larger than they should be and are spread farther on their faces. They don’t have hair anywhere on their bodies. They all have forced smiles on their faces. You can see their teeth are just a little too sharp when they smile. Insinuating carnivorous behavior. If they wanted to, at any point they could jump on you and rip out your throat in .8 seconds. But they’re not right now. They’re marching. 
+They’re about three feet high. Their eyes are larger than they should be and are spread farther on their faces. They don’t have hair anywhere on their bodies. They all have forced smiles on their faces.
+You can see their teeth are just a little too sharp when they smile. Insinuating carnivorous behavior. If they wanted to, at any point they could jump on you and rip out your throat in .8 seconds. But they’re not right now. They’re marching. 
 One of the creatures has tears in it’s eyes. Still smiling tho. Pushing the smile. 
 Everyone is smiling as they march past, but they’re all very cautious. Clearly worried that one may attack. The Boy watches as the creatures reach the front of the party and form a circle. They do this weird clapping, almost step team routine, then stop. The music stops. 
 CREATURE 1 We did it! 
@@ -591,11 +597,14 @@ Everyone claps. The bride and groom force a smile. The creatures slowly make the
 CUT TO: 
 ****[PLAY “PLAYING AROUND BEFORE THE PARTY STARTS” NOW]**** 
 INT. MANSION - NIGHT 
-The Boy sits at his piano; playing randomly, trying to make sense of everything/anything. Steve and Swank talk to Emily and MISLA in the kitchen. They’re arguing about driving, or cooking with coconut oil instead of olive oil, or something else they themselves will not care about or remember in a month, year, ten years, 100 years, the age of the universe. 
-The house is starting to look pretty bad. The cleaners that used to come stop receiving their payment and stopped coming. Plastic cups are starting to spread like a blue rash across the living room and coffee tables. Every surface has a sticky spot. You used to be able to slide into the kitchen from the living room with a two second run and quick stop. Now, dried alcohol stops you before you even get to the kitchen door. The Boy really loved sliding into the kitchen when he was a kid. It was the closest you could get to having powers. 
+The Boy sits at his piano; playing randomly, trying to make sense of everything/anything. Steve and Swank talk to Emily and MISLA in the kitchen.
+They’re arguing about driving, or cooking with coconut oil instead of olive oil, or something else they themselves will not care about or remember in a month, year, ten years, 100 years, the age of the universe. 
+The house is starting to look pretty bad. The cleaners that used to come stop receiving their payment and stopped coming. Plastic cups are starting to spread like a blue rash across the living room and coffee tables.
+Every surface has a sticky spot. You used to be able to slide into the kitchen from the living room with a two second run and quick stop. Now, dried alcohol stops you before you even get to the kitchen door. The Boy really loved sliding into the kitchen when he was a kid. It was the closest you could get to having powers. 
 ***********[PLAY SONG “THE PARTY” AT THIS POINT]************ 
 Minutes go by. People start to crowd around The Boy as he continues on piano. So many people he can’t think. 
-Fam daps up a kid as he walks in. They then walk over to a closet where Fam opens up a pantry of weed. It’s not nostalgic rap video stocked with weed, but there’s a lot of weed in there. Fam tosses an ounce of weed at the kid. The kid and his friend smell it and nod. They look to Fam to share a smile of like “good shit, right?”, but Fam isn’t there for em. Fam gives em the “where’s my money you privileged ass-hole” look. They pull out some hundreds. 
+Fam daps up a kid as he walks in. They then walk over to a closet where Fam opens up a pantry of weed. It’s not nostalgic rap video stocked with weed, but there’s a lot of weed in there. Fam tosses an ounce of weed at the kid. The kid and his friend smell it and nod.
+They look to Fam to share a smile of like “good shit, right?”, but Fam isn’t there for em. Fam gives em the “where’s my money you privileged ass-hole” look. They pull out some hundreds. 
 Misla is sitting knees to chest with a french dude in the center of the pool table. They’re eating s’mores. 
 Emily and Steve and jumping over the fire pit like idiots. 
 There are people saying things, giving opinions, feeling interesting. Everyone has a purpose tonight. It’s a great time. 
@@ -647,9 +656,11 @@ A skinny Latino kid with a Bluetooth hands him the bag. The Boy pulls over to th
 The Boy throws the burger out. 
 CUT TO: 
 INT. MANSION - NIGHT 
-The Boy walks through the house; locking all the doors and turning off all the lights. It’s always a weird feeling to walk around the house at night because most of the walls are glass, so people can see right inside, especially when it’s dark. It’s pretty hard to even get to the house, it’s the highest home on the hill and there’s a long winding road before . But at the same time, if someone got up there, it’d be easy to figure out how to get in. 
+The Boy walks through the house; locking all the doors and turning off all the lights. It’s always a weird feeling to walk around the house at night because most of the walls are glass, so people can see right inside, especially when it’s dark.
+It’s pretty hard to even get to the house, it’s the highest home on the hill and there’s a long winding road before . But at the same time, if someone got up there, it’d be easy to figure out how to get in. 
 All the lights are off now. 
-The Boy walks over to The Buddha in the middle of the foyer. He sits on the floor next to him with his knees to his chest. Looking out the front door into half the darkness and half his reflection. He used to be terrified of this Buddha. When he was little, he’d run behind the statue like it would jump on him as soon as he past. But He slowly became something like a best friend. Something like that. 
+The Boy walks over to The Buddha in the middle of the foyer. He sits on the floor next to him with his knees to his chest. Looking out the front door into half the darkness and half his reflection. He used to be terrified of this Buddha.
+When he was little, he’d run behind the statue like it would jump on him as soon as he past. But He slowly became something like a best friend. Something like that. 
 INT. THE BOY’S ROOM - NIGHT 
 The Boy pours Pelligrino into a wine glass. Then he continues to twist his metal weed grinder in his hand. He takes the top off the grinder and pours the white powder inside the glass. He drinks it, then sits on the foot of the bed and takes off his white T-shirt. 
 Pulling the covers over his body, he looks at the spider in the corner...only it was gone. Where’d it go? Why would it leave? What about it’s parents? Won’t they be sad? What a bout hi s frien ds? W hat ab o u t all his s t uf f h o w wa s h esu p p ose d to ke e p all h is s ... . . . . ..... . . . . 
@@ -658,7 +669,9 @@ Pulling the covers over his body, he looks at the spider in the corner...only it
 *****[PLAY SONG “FLIGHT OF THE NAVIGATOR” AT THIS POINT]***** 
 INT. HOSPITAL - DAY 
 The Boy wakes up. He’s in a gown. His eyes feel heavy. The TV is on in his room. “Golden Girls” to be specific. One of the ladies just said funny cause there’s a lot of laughter. 
-Sitcom laughs always freaked him out. Because most of those people are dead. Those are ghost laughs. Laughs that are supposed to be gone forever linger on earth after every mid 90s joke about teenage sex or someone saying “don’t go there”. Looking for their mouths, never finding them because they’re gone. The laughs don’t feel good because they’re dead laughs. Those laughs aren’t what they stood for anymore. They’ve been reappropriated. Now they’re just sounds monkey descendants make when amused to cue other monkey descendants when to make the sounds at home. 
+Sitcom laughs always freaked him out. Because most of those people are dead. Those are ghost laughs. Laughs that are supposed to be gone forever linger on earth after every mid 90s joke about teenage sex or someone saying “don’t go there”.
+Looking for their mouths, never finding them because they’re gone. The laughs don’t feel good because they’re dead laughs.
+Those laughs aren’t what they stood for anymore. They’ve been reappropriated. Now they’re just sounds monkey descendants make when amused to cue other monkey descendants when to make the sounds at home. 
 ...my eyes feel heavy. 
 A nurse comes in. 
 WHITE GUY NURSE Hello Mr.[EDIT]. How are you feeling? 
@@ -697,7 +710,8 @@ His father died in Stockholm. A family member was needed. Didn’t realize that 
 He wanted to be cremated. 
 The Boy didn’t really know anyone in Stockholm, but he also didn’t want to be in his hotel room with his father for a day. Even if he was just ashes. So he decided to search through his followers for someone from Sweden. 
 Some girl named “@Hello_Pity_” Dm’d him back and they were supposed to meet up after all the whatever he had to do. She looked pretty in her avi: an inverted Hello Kitty. But that really doesn’t mean anything at all, especially since her instagram was blocked, which is something he’s learned not to trust at all. 
-So he looked through her tweets, figured out a night she went to a club, used one of his dummy profiles and pretended that they’d met at the club that night. She had trouble remembering because, according to her feed, she was “fuckin turnt, [CRAZY TONGUE OUT EMOJI] lol”. She added this made up dude as a friend on facebook. Now The Boy could see her pictures. 
+So he looked through her tweets, figured out a night she went to a club, used one of his dummy profiles and pretended that they’d met at the club that night.
+She had trouble remembering because, according to her feed, she was “fuckin turnt, [CRAZY TONGUE OUT EMOJI] lol”. She added this made up dude as a friend on facebook. Now The Boy could see her pictures. 
 The rest of her pictures confirmed she was indeed pretty. 
 This girl loves Justin Bieber though. New Justin Bieber. The “fuck you” Bieber. She loves Justin Bieber in the way you love that girl on Maury who’s like “my favorite flavor popsicle is DICK!”, which is close to sincere love, but nowhere near it at the same time. 
 INT. STRANGE OFFICE - NIGHT 
@@ -902,7 +916,8 @@ NAOMI Yeah.(then) See? You’re not such a lonely boy.
 She LOLs and mushes his face with her hand. The Boy smh, but smiles. 
 ***********[PLAY SONG “PINK TOES” AT THIS POINT]*********** 
 This is the part where they kinda fall in love a little bit. But I feel like anything we put here wouldn’t do justice to what really happens when a person you meet ends up in your life out of nowhere. But know that it’s exactly how you expect it to be, but also more. It’s a big inside joke that you can’t mess up and only one other person in the world gets. 
-It’s not a very pretty or perfect love, or even necessarily a romantic love. It doesn’t look cool. It’s more like two helpless things in the wild, and one says “I’ll protect you”, and both parties know it’s a lie because there’s no way either of them can protect the other from anything. That lie is the best way to describe this love. That feeling of not having to say “I’m scared”, because you share the exact feelings without having words over or under complicate it, that’s worth more than protection. It’s a connection. The less alone. This is all we look for on earth. 
+It’s not a very pretty or perfect love, or even necessarily a romantic love. It doesn’t look cool. It’s more like two helpless things in the wild, and one says “I’ll protect you”, and both parties know it’s a lie because there’s no way either of them can protect the other from anything.
+That lie is the best way to describe this love. That feeling of not having to say “I’m scared”, because you share the exact feelings without having words over or under complicate it, that’s worth more than protection. It’s a connection. The less alone. This is all we look for on earth. 
 The Boy and Naomi hang a lot. They spend the night and make breakfast sometimes. He buys stuff for her. She makes him stuff. They watch cartoons together. They’re always saying things, giving opinions, feeling interesting. They both have a purpose. It’s a great time. Time passes. 
 The Boy starts moving small amounts of weed out the mansion, but starts selling more to keep up, along with stuff that isn’t weed. He started growing crop in the nursery. The electricity bill would be high, but he stopped living in the mansion. He started renting another place to stay and keep the business separate. 
 To be honest it was getting a little out of hand, as Naomi predicted. The Boy is not a good dealer. A lot of people think you have to be cold and calculated, which he was to an extent. But you also have to know people. How they act/react. But it was still kinda fun up to this point. 
@@ -955,7 +970,8 @@ DUDE 1 (CONT’D) Give me your phone.
 The Boy hands him his phone. Fuck. 
 Two dudes stand guard at the front and back exits. One dude packs the bricks from the closet in a trash bag. Dude 1 (seems to be the leader) is looking through The Boy’s phone. 
 It didn’t feel like the day The Boy was going to die. Not to say The Boy didn’t feel like he was going to die, he was certain he was going to die today. 
-But he didn’t feel like today felt like a/the last day/night. Like a Wednesday that keeps feeling like a Friday. But the more he thought about it, if the last day felt like the last day, the world would be a different place. The order we have everyday would vanish if you were guaranteed a warning. People wouldn’t live like they do. They wouldn’t care what you thought. It’d be anarchy. Or an utopia. Depending on who you ask. 
+But he didn’t feel like today felt like a/the last day/night. Like a Wednesday that keeps feeling like a Friday. But the more he thought about it, if the last day felt like the last day, the world would be a different place.
+The order we have everyday would vanish if you were guaranteed a warning. People wouldn’t live like they do. They wouldn’t care what you thought. It’d be anarchy. Or an utopia. Depending on who you ask. 
 Dude 1 puts The Boy’s phone in his pocket. The Boy doesn’t know if that’s a good thing or a bad thing. Dude 1 and Dude 2 start talking. It’s obvious they’re discussing The Boy’s fate. 
 If I was the director, the one who made this moment, the one who saw this moment millennia before, the one who coded this world and allowed this to happen, I’d have Thundercat’s “We'll Die” playing as The Boy looks around at his once castle. 
 ...try to do your best. 
@@ -979,7 +995,8 @@ Silence.
 THE BOY (CONT’D) I’m going to jail? 
 DUDE 2 Yep. 
 The Boy looks to the pool in the backyard and sees his own body floating lifeless. 
-Eyes wide, bubbles clinging to his face. Orange, yellow, and brown leaves float above him. His left shoe floating far ahead, probably from struggling at some point. Next to the pool, Naomi and Steve stand over him. Neither is crying or really seem too upset. They just look on as if the movie they were watching took an abrupt turn and they’re mildly interested rather than satisfied. 
+Eyes wide, bubbles clinging to his face. Orange, yellow, and brown leaves float above him. His left shoe floating far ahead, probably from struggling at some point. Next to the pool, Naomi and Steve stand over him.
+Neither is crying or really seem too upset. They just look on as if the movie they were watching took an abrupt turn and they’re mildly interested rather than satisfied. 
 It looks peaceful. Fitting. He’d like to go out like that. 
 ...what’s that sound? 
 Tires SCREECH outside. Dude 2 stands up. There’s a small crash outside. Yelling. 
@@ -991,7 +1008,6 @@ Dude 1 turns to The Boy and sho
 ...(breath).....(breath).............(breath).. . . . 
 Silence. 
 *****[PLAY SONG “LIFE: THE BIGGEST TROLL” AT THIS POINT]**** 
-THE END 
-`
+THE END`
 // video embedding
 // (see next)<iframe hidden width="560" height="315" src="https://www.youtube.com/embed/Z_bONLcE8IA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 

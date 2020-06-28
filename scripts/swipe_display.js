@@ -7,7 +7,7 @@ above it.
 */
 
 maxParLen = -1;
-tapRegion = 1/3;
+tapRegion = 0.45;
 
 
 titleId = "title";
@@ -17,6 +17,7 @@ secondAuthorId = "secondAuthor";
 storyId = "story";
 detailId = "copyright";
 helpId = "help";
+secondHelpId = "secondHelp";
 backId = "backlink";
 tapEnabled = true;
 
@@ -94,7 +95,7 @@ if wantHide, hides menu
 otherwise, shows menu
 */
 function toggleShowMenu(wantHide) {
-    hideableFields = [titleId, detailId, authorId];
+    hideableFields = [titleId, detailId, authorId, secondHelpId];
     for (var i = 0; i < hideableFields.length; i++) {
         getElementById(hideableFields[i]).hidden = wantHide;
     }   
@@ -178,6 +179,7 @@ function displayHelpDialogue(onMobile) {
         helpString = "Use left and right arrow keys to change paragraphs."
     }
     getElementById(helpId).innerHTML = helpString;
+    getElementById(secondHelpId).innerHTML = helpString;
 }
 
 /*
