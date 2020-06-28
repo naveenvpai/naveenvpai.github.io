@@ -150,7 +150,11 @@ h1, h2 {
 
 @media only screen and (min-width: 700px) {
   .middle {
-    font-size: 6.25vh;
+    font-size: 5.5vh;
     width: 700px;
   }
+}
+
+.secondHelp {
+    color: gray;
 }

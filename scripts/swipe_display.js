@@ -9,7 +9,8 @@ above it.
 maxParLen = -1;
 tapRegion = 0.45;
 
-
+musicId = "musicPlayer";
+musicSourceId = "musicPlayerSource";
 titleId = "title";
 authorId = "author";
 secondTitleId = "secondTitle";
@@ -41,7 +42,29 @@ storyData = {
         "author": gloverAuthor,
         "copyright": gloverCopyright,
         "body": gloverText,
-        "delimiter": "\n"
+        "delimiter": "\n",
+        "audioCue": "***",
+        "music": {
+            42: "crawl.mp3",
+            171: "worldstar.mp3",
+            251: "dialup.mp3",
+            258: "theworstguys.mp3",
+            313: "shadows.mp3",
+            374: "telegraph.mp3",
+            454: "sweatpants.mp3",
+            579: "3005.mp3",
+            591: "secret.mp3",
+            594: "playingaroundbeforethepartystarts.mp3",
+            600: "theparty.mp3",
+            633: "noexit.mp3",
+            663: "deathbynumbers.mp3",
+            665: "flightofthenavigator.mp3",
+            702: "zealotsofstockholm.mp3",
+            793: "urn.mp3",
+            913: "pinktoes.mp3",
+            956: "earththeoldestcomputer.mp3",
+            1006: "lifethebiggesttroll.mp3"
+        }
     }
 };
 
@@ -141,6 +164,20 @@ return title of the story for given parameter
 */
 function getTitle(pageParam) {
     return storyData[pageParam]["title"];
+}
+
+/*
+precondition: pageParam is valid
+
+fetches music location including parent directories for given index or returns
+null if none exists
+*/
+function getMusicLocation(pageParam, index) {
+    var loc = storyData[pageParam]["music"][index];
+    if (loc) {
+        return "audio/"+pageParam+"/"+loc;
+    }
+    return null;
 }
 
 /*
@@ -274,6 +311,24 @@ function displayStoryText(text) {
 }
 
 /*
+precondition: musicLocation is a valid resource uri to an audio file
+
+plays audio on the page, making sure to pause existing music.
+*/
+function playAudio(musicLocation) {
+    var audioPlayer = getElementById(musicId);
+    var audioPlayerSource = getElementById(musicSourceId);
+    if (!audioPlayer.paused) {
+        audioPlayer.pause();
+    }
+    audioPlayerSource.src = musicLocation;
+    audioPlayer.load();
+    audioPlayer.hidden = false;
+    audioPlayer.controls = true;
+    audioPlayer.play();
+}
+
+/*
     precondition: pageParam valid, index valid for given story
 
     displays the given paragraph from the given story. iff store set to true,
@@ -293,6 +348,12 @@ function displayParagraph(pageParam, index, store) {
         toggleShowMenu(true);
     } else {
         toggleShowMenu(false);
+    }
+    var musicLoc = getMusicLocation(pageParam, index);
+    if (musicLoc) {
+        playAudio(musicLoc);
+        getElementById(secondHelpId).innerHTML = 'Note: music can be configured in side menu';
+        getElementById(secondHelpId).hidden = false;
     }
 }
 
