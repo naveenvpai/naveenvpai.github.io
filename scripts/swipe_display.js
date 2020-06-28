@@ -45,7 +45,7 @@ storyData = {
     }
 };
 
-swipeThreshold = 35
+swipeThreshold = 15;
 
 /*
 behaves as getElementById, intended to make it easier to switch from
