@@ -551,7 +551,7 @@ function registerTapEvents2(pageParam) {
         const vw = Math.max(document.documentElement.clientWidth || 0, window.innerWidth || 0);
         const vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
 
-        if (yDown > vh*tapRegion && tapEnabled) {
+        if (tapEnabled) {
             if (xDown > vw*(1-tapRegion)) {
                 displayNextParagraph(pageParam);
             } else if (xDown < vw*tapRegion) {
