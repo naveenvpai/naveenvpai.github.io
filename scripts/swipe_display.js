@@ -65,6 +65,16 @@ storyData = {
             956: "earththeoldestcomputer.mp3",
             1006: "lifethebiggesttroll.mp3"
         }
+    },
+    "ets": {
+        
+    },
+    "ptafpf": {
+        "title": shorTitle,
+        "copyright": shorCopyright,
+        "author": shorAuthor,
+        "body": shorText,
+        "delimiter": ". "
     }
 };
 
@@ -167,15 +177,15 @@ function getTitle(pageParam) {
 }
 
 /*
-precondition: pageParam is valid
+precondition: pageParam is valid, index is non-negative
 
 fetches music location including parent directories for given index or returns
 null if none exists
 */
 function getMusicLocation(pageParam, index) {
-    var loc = storyData[pageParam]["music"][index];
-    if (loc) {
-        return "audio/"+pageParam+"/"+loc;
+    var loc = storyData[pageParam]["music"];
+    if (loc && loc.length[index]) {
+        return "audio/"+pageParam+"/"+loc[index];
     }
     return null;
 }
