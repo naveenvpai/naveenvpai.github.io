@@ -624,6 +624,7 @@ function registerHamburger() {
       e.preventDefault();
       this.navToggle.classList.toggle('expanded');
       this.nav.classList.toggle('expanded');
+      getElementById(musicId).hidden = !getElementById(musicId).hidden;
       tapEnabled = !tapEnabled;
     }
   };

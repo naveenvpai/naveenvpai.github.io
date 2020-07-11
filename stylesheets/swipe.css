@@ -70,11 +70,11 @@ h1, h2 {
   cursor: pointer;
   font-size: 2rem;
   height: 100vh;
-  left: -20rem;
+  left: -25rem;
   padding: 6rem 2rem 2rem 2rem;
   position: fixed;
   top: 0;
-  width: 20rem;
+  width: 25rem;
   z-index: 1;
 }
 
