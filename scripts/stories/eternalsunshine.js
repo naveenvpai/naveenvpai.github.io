@@ -1,8 +1,8 @@
 kaufmanTitle=`Eternal Sunshine of the Spotless Mind`
-kaufmanTitleAuthor=`Charlie Kaufman`
-kaufmanTitleCopyright=`exerpt from https://stephenfollows.com/resource-docs/scripts/eternal_sunshine_of_the_spotless_mind.pdf`
-kaufmanTitleText=`
-1 EXT. COMMUTER TRAIN STATION - DAY 1
+kaufmanAuthor=`Charlie Kaufman`
+kaufmanCopyright=`exerpt from https://stephenfollows.com/resource-docs/scripts/eternal_sunshine_of_the_spotless_mind.pdf`
+kaufmanText=`
+. 1 EXT. COMMUTER TRAIN STATION - DAY 1
  It's gray. The platform is packed with business commuters:
  suits, overcoats. There is such a lack of color it almost
  seems as if it's a black and white shot, except one commuter

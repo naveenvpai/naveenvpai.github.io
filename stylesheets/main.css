@@ -25,6 +25,12 @@ html {
     line-height: 1.25;
 }
 
+.allStories {
+    font-size: 3.25vh;
+    margin: 0 auto;
+    line-height: 1.25;
+}
+
 .middle p {
     margin-top: 2em;
     margin-bottom: 2em;
@@ -61,6 +67,9 @@ h1, h2 {
 
 @media only screen and (min-width: 700px) {
   .middle {
+    width: 700px;
+  }
+  .allStories {
     width: 700px;
   }
 }

@@ -20,6 +20,7 @@ detailId = "copyright";
 helpId = "help";
 secondHelpId = "secondHelp";
 backId = "backlink";
+addDelimiter = "addDelimiter";
 tapEnabled = true;
 
 storyData = {
@@ -67,14 +68,20 @@ storyData = {
         }
     },
     "ets": {
-        
+        "title": kaufmanTitle,
+        "copyright": kaufmanCopyright,
+        "author": kaufmanAuthor,
+        "body": kaufmanText,
+        "delimiter": ". ",
+        "addDelimiter": true
     },
     "ptafpf": {
         "title": shorTitle,
         "copyright": shorCopyright,
         "author": shorAuthor,
         "body": shorText,
-        "delimiter": ". "
+        "delimiter": ". ",
+        "addDelimiter": true
     }
 };
 
@@ -352,7 +359,11 @@ function displayParagraph(pageParam, index, store) {
         if (store) {
             safeSetCurrentParagraph(pageParam, index);
         }
-        displayStoryText(paragraphs[index]);
+        if (index > 0 && storyData[pageParam][addDelimiter]) {
+            displayStoryText(paragraphs[index] + storyData[pageParam]["delimiter"]);
+        } else {
+            displayStoryText(paragraphs[index]);
+        }
     }
     if (index > 0) {
         toggleShowMenu(true);
