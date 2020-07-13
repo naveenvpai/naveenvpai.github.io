@@ -56,6 +56,8 @@ h1, h2 {
 /* For mobile phones: */
 .middle {
   width: 95%;
+  overflow-x: hidden;
+  text-overflow: ellipsis;
 }
 
 .help {
