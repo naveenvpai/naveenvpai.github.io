@@ -882,7 +882,7 @@ JERRY
                  (it's infectious)
           Damn right.
 26.
-He climbs
+He climbs up on the edge of his sofa, and reaches for the
 poster with his hanging device. True to Marcee's complaint, the poster hangs in the upper Siberian region of his wall.
 MARCEE
           Look at that handsome man, trying
@@ -891,7 +891,6 @@ MARCEE
           get ya, darlin!  We are so close
           to having it all!
 ON THE POSTER -- CLOSE
-up on the edge of his sofa, and reaches for the
 It is the kind of poster that is strictly the domain of second-tier players. Commanding wide-receiver ROD TIDWELL, 27, stands shirtless, hands on hips, looking vaguelyl uncomfortable. Emplazoned above his head: IN ROD WE TRUST. Elsewhere in the room, we hear the inevitable crash ("Tyson!").
 EXT. CRONIN'S GRILL -- AFTERNOON
 Crowded outdoor restaurant in the business district. Jerry
