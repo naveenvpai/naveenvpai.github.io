@@ -1011,8 +1011,8 @@ JERRY
 As he talks, he takes a stack of his Mission Statements, once
 proudly set on his desk, and sentences them to the bottom drawer.
 EXT. STREET -- DAY
-Sugar strolls back
-          You read that memo I snuck to you,
+Sugar strolls back to the office, talking on the portable.
+SUGAR You read that memo I snuck to you,
           the guy's tired of the job.  Tired
           of making you money.
 INT. JERRY'S OFFICE -- DAY
@@ -1026,8 +1026,6 @@ JERRY
           who turned it all around, it was
           me...
 30.
-to the office, talking on the portable.
-SUGAR
 INT. SUGAR'S OFFICE -- DAY
 Several other agents working the cause behind Sugar, who breezes through the calls.
 SUGAR
