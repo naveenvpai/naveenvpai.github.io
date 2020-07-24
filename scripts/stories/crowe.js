@@ -845,7 +845,6 @@ MARCEE
 SUGAR
           Sorry to interrupt you guys.
 25.
-Pleasure.
 Sugar exits. Marcee resumes at the exact point, at the exact level of intensity.
 MARCEE
           Now I don't know what you do for
