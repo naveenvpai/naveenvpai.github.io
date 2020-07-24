@@ -901,6 +901,7 @@ Gimme a second here... Tidwell...
 Arizona contract... new glass
 cabinet...
 SUGAR
+You okay?
 JERRY
        (looking up)
 I'm fine.  What's up?
@@ -910,25 +911,24 @@ JERRY
 Pardon me?
 SUGAR
 Came here to fire you, Jerry.
-You okay?
 For a long moment there is only silence. They study each other. These are two smart boys, each one anticipating the other's next three or four moves.
 SUGAR
                  (continuing)
           It's real, Jerry.  You... you
           should say something.
 Suddenly he's flushed, a little embarrassed.
-In a back
 JERRY
 Aw shit...the crowded
 restaurant... so there's no
 scene...
 SUGAR
 I know. It sucks. I suck.
-room, the waiters are singing the restaurant's
+In a back room, the waiters are singing the restaurant's
 27.
 "Birthday
 Song" to someone else. Jerry is dying.
 JERRY
+You...
 SUGAR
        (razor sharp)
 You did this to yourself.  You
@@ -937,7 +937,6 @@ all on paper.  Scully was very
 upset.  Heart attacks make some
 people sweeter, but not him.  You
 did this to yourself --
-You...
 Jerry's mouth opens to finish his sentence, but before he can speak, Sugar continues.
 SUGAR
                  (continuing)
@@ -970,6 +969,7 @@ JERRY
           I'm over it.  Now I want all my
           clients and yours too.
 SUGAR
+Jerry-- 
 JERRY
           -- and I'll get 'em.
 SUGAR
