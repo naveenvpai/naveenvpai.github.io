@@ -839,6 +839,7 @@ JERRY
           agents. This is Bob Sugar, who
           needs to learn to knock.
 SUGAR
+Pleasure.
 MARCEE
           You've called our house, right?
 SUGAR
