@@ -1009,8 +1009,7 @@ JERRY
           of your endorsments to SMI, I
           would cut my commission by 7%...
 As he talks, he takes a stack of his Mission Statements, once
-proudly set on his
-drawer.
+proudly set on his desk, and sentences them to the bottom drawer.
 EXT. STREET -- DAY
 Sugar strolls back
           You read that memo I snuck to you,
@@ -1026,7 +1025,6 @@ JERRY
           you that sympathetic journalist
           who turned it all around, it was
           me...
-desk, and sentences them to the bottom
 30.
 to the office, talking on the portable.
 SUGAR
