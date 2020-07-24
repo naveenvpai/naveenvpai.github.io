@@ -672,7 +672,6 @@ DOROTHY
           be some classy babe --
 INT. AVERY'S BEDROOM -- NIGHT
 AVERY BISHOR, 29, makes love to Jerry Maguire at fever pitch. They are standing on the bed, which is in the corner.
-Nearby, a
 AVERY
 Don't ever stop fucking me!
 JERRY
@@ -681,7 +680,7 @@ stop.
 AVERY
 Oh Gawd, oh yes, it's never been
 better. Never BETTER!!
-large and sleepy German Shepard yawns.
+Nearby, a large and sleepy German Shepard yawns.
 AVERY
        (continuing)
 Never BETTER!!
@@ -690,17 +689,6 @@ AVERY
                  (continuing)
           Open your eyes.
 (he does)
-She skips
-told.
-off like a colt.  Jerry digests what he's just been
-JERRY
-       (to the next room)
-You know.  I don't think we need
-to do the thing where we tell each
-other everything!
-AVERY (O.S.)
-       (laughing)
-Jerry, this is what intimacy is!
 If you ever want me to be with
 another woman for you, I would do
 it.  I'm not interested in it.
@@ -713,6 +701,17 @@ being adventurous in that way, I
 would do it for you.  You want
 anything from the kitchen I'm
 going to get some fruit --
+She skips off like a colt.  Jerry digests what he's just been told.
+
+JERRY
+       (to the next room)
+You know.  I don't think we need
+to do the thing where we tell each
+other everything!
+AVERY (O.S.)
+       (laughing)
+Jerry, this is what intimacy is!
+
 Jerry rubs his face, as he does often when processing complex information.
 AVERY (0.5.)
           Oh -- don't forget tomorrow we
