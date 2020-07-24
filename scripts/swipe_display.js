@@ -82,6 +82,14 @@ storyData = {
         "body": shorText,
         "delimiter": ". ",
         "addDelimiter": true
+    },
+    "jm": {
+        "title": croweTitle,
+        "copyright": croweCopyright,
+        "author": croweAuthor,
+        "body": croweText,
+        "delimiter": ". ",
+        "addDelimiter": true
     }
 };
 
