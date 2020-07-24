@@ -32,7 +32,6 @@ ON TEENAGE GIRL BOXER
 throwing punches toward the camera.
                     JERRY'S VOICE
           Seattle, Washington.  Dallas
-2.
           Malloy. Went to court to be
           allowed to box professionally.
           She's 16.
@@ -94,7 +93,6 @@ ON ANONYMOUS NEWPORT BEACH BUILDING
 INT. SMI CONFERENCE ROOM -- DAY
 The SMI agents are a fierce, happy bunch. They sit in a carefully appointed conference room.
 Sports photos and posters are framed on the walls. The signs of global marketing are omnipresent. Each agent has a silver tray containing soft drinks and a glass pitcher of water. Through the glass window, we see a large office divided up into many cubicles.
-4.
                     JERRY'S VOICE
           Thirty-three out of shape agents
           guiding the careers of 2,120 of
@@ -123,7 +121,6 @@ Jerry now sits next to a towering white 27 year-old basketball player with a bad
 LITTLE BOY
 Are you Calvin Nack?  Could you
 sign my card?
-5.
 Nack bends down with a kindly-looking face.
 CALVIN NACK
           I'm sorry little fella.  I can't
@@ -157,7 +154,6 @@ STEVE REMO
           games, I make my bonus.
 EXT. HOSPITAL HALLWAY -- NIGHT
 Remo's 14 year-old SON (JESSE) confronts Jerry outside the hospital room. He's a hulking kid, a Pop Warner football player himself. His voice is in the process of changing.
-6.
 SON
           This is his fourth concussion.
           Shouldn't somebody get him to stop?
@@ -191,7 +187,6 @@ call a Mission Statement for my
 company. You know -- a Mission
 Statement -- a suggestion for the
 future.
-7.
 INT. MIAMI HOTEL ROOM -- NIGHT
 Jerry types, a pot of coffee and tray of room service nearby. we watch his face, alive now.
 There is a direct line from the deepest part of him to the words he's typing. His fingers fly. Even his eyes grow moist.
@@ -254,7 +249,6 @@ INT. HOTEL ROOM -- MORNING
 Jerry splashes water onto his face. The sun is coming up. He looks younger, lighter.
 ON TV MOVIE  (JERRY WATCHING)
 Suddenly, dramatic movie score. It's Dana Andrews, showing Gene Tierney the newspaper reports of her death in Laura. ("Someone was murdered in this room last night... any idea who it was?") Camera whips to Jerry, standing watching as he packs. A slight concern on his face. He moves to the phone, and dials with urgency.
-8.
 JERRY
           Hi, it's jerry maguire.  Uh,
           listen did those manuscripts
@@ -284,13 +278,11 @@ ON AIRPLANE WHEELS
 folding up into a plane, as music and credits end.
 INT. AIRPLANE/FIRST CLASS -- NIGHT
 We move past a snoring businessman, onto tired but adrenalized Jerry Maguire. He sits in first-class, working on his laptop, a pile of newspapers and magazines nearby. The WOMAN PASSENGER next to him, 3oish, finishes up a spicy
-9.
 phone conversation with her boyfriend.
 WOMAN
           Monkeyface... monkeyface,
           listen... I'm not going to say it
           here.... no...
-10.
 Jerry continues to work, as his laptop now beeps. Battery's low.
 WOMAN
                  (continuing)
@@ -350,7 +342,6 @@ JERRY
           Well.  Good luck with that --
 He nods, as he reaches up to shut off the light. Politely stifles another yawn. He shuts his eyes, settles into sleep. Bobbi leans into his darkness.
 WOMAN
-11.
           Can I just get a quick "man's"
           opinion from you on something?
 INT.  FIRST CLASS SEATS -- LATER
@@ -431,7 +422,6 @@ JERRY
           To the pools.  Now she's Miss Rock
           Climber, and I'm more the Non-Rock
           Climber, but we're hiking up
-13.
 No no...
 Gorgeous.
           through the pools and there's a
@@ -474,7 +464,6 @@ He sneezes, three big ones in a row. She hands him more kleenex, riveted on the 
           Now little do I know that my
           assistant. has assumed that I've
           now proposed. So she has gotten
-14.
           the lounge band to actually play
           "Here Comes The Bride" when we
           walk back in.
@@ -514,7 +503,6 @@ Jerry Maguire exits the plane a few steps behind Bobbi Fallon.
 JERRY
                  (quietly, like a
                   coach)
-15.
           You'll know when you see him.
           You'll know when you see him.
 Bobbi scans the crowd. She spots Monkeyface, large and burly in tiger-print sweats. He looks like Mickey Dolenz. He holds flowers.
@@ -547,7 +535,6 @@ DOROTHY
           Hmm.  Pretty good.
 JERRY
 Ray! Ray!
-16.
           Now what did you lose?
 DOROTHY
           My son... my mind...
@@ -581,7 +568,6 @@ JERRY
 No no. I knew.
 DOROTHY
 (slow sigh)
-17.
           Nnnnn.  I just killed the surprise.
 JERRY
           No, I'm just... anxiously looking
@@ -591,7 +577,6 @@ JERRY
 Jerry takes off.
 DOROTHY
           I loved your memo, by the way.
-18.
 He stops. Turns. She flashes the well-thumbed copy in her purse. Jerry takes a step closer, interested and flattered.
 JERRY
           Thanks... actually, it was just a
@@ -656,7 +641,6 @@ to say it out loud, to put
 yourself out there, so openly...
        (shakes her head)
 ... I don't know, it got me.
-19.
 Jerry lets Ray down easy. The kid is a little disappointed. But Maguire bows, always courtly, and exits to get his bag. He then realizes something amiss and returns quickly, pulling Ray's hand up again and completing the swing.
 JERRY
           ... three, swing.
@@ -664,7 +648,6 @@ Ray is now happy, in love even, as Jerry exits. Dorothy laughs, as her sister ar
 LAUREL
           Come on, I'm double-parked.
 Dorothy returns to the world of motherhood, bending down, gathering Ray's toys. She wipes at Ray's hair.
-20.
 ("Don't put food in your hair.") She is surprised that she's a little jazzed from her encounter with Jerry Maguire. She can't help but look back at Jerry, who catches her looking. He salutes her, with mock circumstance. She returns it with a guilty smile. He disappears, and she finds herself oddly short of breath.
 DOROTHY
                  (to herself)
@@ -728,7 +711,6 @@ AVERY
           Jerry.  Your buddy Dooler worked
           his ass off to make you a tribute
           film. All those guys from the
-21.
           office are coming.  Everybody
           loves you.  Just calm down, relax,
           act surprised, and have an amazing
@@ -743,7 +725,6 @@ It is hosted by MICHAEL JORDAN.
           career would have been had Jerry
           Maguire been my agent.  The
           answer -- Yugoslavia.
-22.
 Tepid laughs, as many of the agents turn and grab furtive looks at Maguire, who stands at the back of the room with his friend BILL DOOLER. Dooler, husky, 30, looks like a beatnik on steroids.
 DOOLER
           You hear those courtesy laughs,
@@ -784,7 +765,6 @@ SUGAR
 Sugar moves on, cheerfully.
 DOOLER
           I like that guy.
-23.
 (The movie, which plays simultaneously with the conversation, is a Hi-8 confessional of Jerry's former girlfriends.
 MICHAEL JORDAN is cut into this, nodding, as if he were actually interviewing. The effect is funny, but the confessions are brutally honest. There is The One He Was Too Good For, The One He Wasn't Good Enough For ("He hated being alone.") The Still in Love Girlfriend, The Punk Rock girlfriend ("Sports makes me ill"), The Now Married With Kids Girlfriend, The Cynical Girlfriend ("Beneath the cute exterior, more cute exterior.") The Purely Sexual Girlfriend, The Brainy Girlfriend, ("Great at friendship, bad at intimacy") and even the Girlfriend Who Does A Great Jerry Imitation (rubbing her face, she does a flawless Jerry-on-his- way-to-the-airport). All seem to agree on some basic points (and if necessary maybe Jordan narrates the following information to underscore it.) Jerry always has a
 girlfriend, and many met him on the first day he'd broken up with the last one. The relationship always competes with his job, and the job always wins. The final confrontation happens somewhere around the 18-month mark. Sequence ends with Avery in character, wielding a blowtorch, threatening to burn all these old phone numbers.)
@@ -797,7 +777,6 @@ DOOLER
 Jerry nods, takes a swig of beer. He knows the response is little more than polite. None of the other agents can keep eye contact with him. Dooler is right. On the screen, the finale features a good-humored collage of Jerry photos, cut to music.
 INT. SMI OFFICE -- DAY
 Elevator doors open. Maguire is now paranoid. He walks through the buzzing SMI headquarters, heading for his corner office. He is like an FBI man searching treetops and corners for the Gunman. Everywhere he looks is a potential Grassy Knoll.
-24.
 He passes Fellow Agents, always smiling, giving a word of encouragement to an Agent having an emotional hallway conversation with an Athlete, even bends down to check the sheet of slides being approved by a very large but seated Basketball Player. Moving forward. There is trouble in the air, but only he seems to sense it. He turns corner and is met by assistant WENDY, who hands him a long list of calls. The sheet flaps against his leg as she moves with him toward his back office.
 WENDY
                  (as in 'get ready')
@@ -844,7 +823,6 @@ MARCEE
           You've called our house, right?
 SUGAR
           Sorry to interrupt you guys.
-25.
 Sugar exits. Marcee resumes at the exact point, at the exact level of intensity.
 MARCEE
           Now I don't know what you do for
@@ -881,7 +859,6 @@ MARCEE
 JERRY
                  (it's infectious)
           Damn right.
-26.
 He climbs up on the edge of his sofa, and reaches for the
 poster with his hanging device. True to Marcee's complaint, the poster hangs in the upper Siberian region of his wall.
 MARCEE
@@ -924,7 +901,6 @@ scene...
 SUGAR
 I know. It sucks. I suck.
 In a back room, the waiters are singing the restaurant's
-27.
 "Birthday
 Song" to someone else. Jerry is dying.
 JERRY
@@ -951,7 +927,6 @@ SUGAR
        (unctuous)
 ... dick?
 JERRY
-28.
 Dick.
 Maguire reaches for water. The sound of the ice cubes jangling is suddenly very loud to him. He is drowning.
 SUGAR
@@ -983,7 +958,6 @@ SUGAR
 Jerry fights the desire to use his fists. Hangs onto the table. He's starting to freak out now. Trying to calm down. Sugar's mouth keeps moving, but we hear the music in Jerry's mind. Rising percussive music.
 EXT. STREET -- DAY
 Jerry tries to move briskly down the street, through the lunchtime businessmen traffic. Back to the office.
-29.
 INT. CRONIN'S -- DAY
 Sugar dines alone now. Casually whips out a portable phone.
 INT. SMI ELEVATOR -- DAY
@@ -1025,7 +999,6 @@ JERRY
           you that sympathetic journalist
           who turned it all around, it was
           me...
-30.
 INT. SUGAR'S OFFICE -- DAY
 Several other agents working the cause behind Sugar, who breezes through the calls.
 SUGAR
@@ -1046,7 +1019,6 @@ SUGAR
           the juice.
 INT. SMI OFFICE -- DAY
 Dorothy walks the center hallway with some contracts. To the right and left of her are the phones are ringing.
-31.
 Something is amiss. She stops at the desk of fellow Accounts Exec CLEO, 32.
 DOROTHY
           What's going on?
@@ -1078,10 +1050,11 @@ Jerry shows signs of tiring.
 JERRY
           Kathy!  Hi, it's Jerry Maguire.
 INT. REHEARSAL ROOM -- DAY
-KATHY SANDERS, 22 year-old figure skater,
-Nearby are cardboard stand-ups, souvenirs
-endorsements. Also, the famous gold-medal
-Olympics. Kathy's adoring Mom and Dad sit
+KATHY SANDERS, 22 year-old figure skater, sits on a couch.
+Nearby are cardboard stand-ups, souvenirs of past
+endorsements. Also, the famous gold-medal shot from the
+
+Olympics. Kathy's adoring Mom and Dad sit next to her,
 listening in on the extension. The Mission Statement is folded open on Dad's lap. Kathy chokes on every other word, such is her anguish.
 KATHY
           I already heard from Bob Sugar.
@@ -1093,11 +1066,6 @@ KATHY
           Accura deal, you know I'd go with
           you!
                  (starts to break down)
-sits on a couch.
-of past
-shot from the
-next to her,
-32.
 Oh Jerry, oh God...
 There is a click on the line. She is pained and outraged.
 KATHY
@@ -1129,7 +1097,6 @@ ROD TIDWELL, 27, begins this conversation in the kitchen. He is a powerful physi
 ROD TIDWELL
           "How am I doing?"  I'll tell you.
           I'm sweatin, dude!  That's how I'm
-33.
           "doin." I'm sweatin my contract.
           I'm sweatin' Bob Sugar calling and
           telling me I'm blowing the big
@@ -1161,7 +1128,6 @@ SUGAR
                  (continuing)
           So Jennifer...
 INT. JERRY'S OFFICE
-34.
 Jerry is still on the same Tidwell call. Looking at his watch.
 TIDWELL
           Alright, we're just getting
@@ -1205,7 +1171,6 @@ TIDWELL
           to be a "superstar," man!  Are you
           catching my flow, here?
 Jerry looks at his watch.  Doomed.
-35.
 JERRY
           I need a decision from you, Rod.
 INT. SUGAR'S OFFICE -- NIGHT
@@ -1233,19 +1198,18 @@ It's a very personal, very
 important thing.  It's a family
 motto.  So I want to share it with
 you.  You ready?
-Yes.
 JERRY
+Yes.
 TIDWELL
 Here it is.  "Show me the money."
        (pause)
 Show.  Me.  The.  Money.
 JERRY
+I got it.
 TIDWELL
 Now doesn't that just make you
 feel good to say it?  Say it with
 me.
-36.
-I got it.
 The lights have gone down in the city, and he hasn't had a
 chance to turn his own light on. He sits in the oncoming darkness, watching the blinking white lights on the phone bank on the desk.
 JERRY
@@ -1275,7 +1239,6 @@ to do what you think I'm going to
 do, which is FLIP OUT!
 JERRY
        (continuing)
-37.
 Jerry goes to a water dispenser, calming himself, and fills a small Dixie cup. Downs it and fills it again, rubbing his face..
 JERRY
                  (continuing)
@@ -1315,7 +1278,6 @@ ground floor of something real and
 fun and inspiring and true in this
 dipping into the tank, grabbing the one exotic fish
 human train wreck.
-38.
           godforsaken business and we will
           do it together!  Who's coming with
           me besides... "Flipper" here?
@@ -1345,7 +1307,6 @@ I'll go with you.
 Wonderful...
 She dabs at her pants. Next to her, Cleo looks on sadly.
 ON JERRY
-39.
 halfway across the office.
 JERRY
 Dorothy Boyd! Thank you!
@@ -1370,7 +1331,6 @@ DOROTHY
           impaired. He said "you complete
           me."
 They continue on in silence.
-40.
 INT. BUILDING LOBBY -- NIGHT
 Jerry and Dorothy pass through another office's party. Loud music. It's a pre-Easter party thrown for the building employees and their children. Jerry and Dorothy squeeze through with boxes and fish.
 EXT. SMI PARKING LOT -- NIGHT
@@ -1408,7 +1368,6 @@ She climbs into her car, rolls down the window.
 JERRY
           And when you think about what
           you've done later, don't panic.
-41.
 DOROTHY
           Me?  No.  My sister -- it's a good
           bet.
@@ -1475,7 +1434,6 @@ INT. LIVING ROOM -- NIGHT
 Ray dreams sweetly in the middle of this rockbed of Women's Woes. Dorothy strokes his head, as she plucks him up. In frame another woman, ALICE, 50, speaks passionately to the
 in a hurry, as Laurel throws her cigarette into the
 Sorry.
-42.
 group.
 ALICE
 Okay I've finally, finally, gotten
@@ -1513,7 +1471,6 @@ JERRY
           "Dad says we gwan sleep on it.
 Ugh!
 AVERY JERRY
-43.
        (turns, with clothes)
 Seventy-two clients.  ONE stayed.
        (sotto)
@@ -1540,7 +1497,6 @@ That's right.
 AVERY
 King of the Housecalls! Master of
 the Living Room!
-44.
 JERRY
           Okay, this is working.
 AVERY
@@ -1576,7 +1532,6 @@ folding up.  Music continues.
 INT. RENT-A-CAR -- MORNING
 Jerry drives the bumpiest Texas backroad ever. Music continues.
 EXT. CUSHMAN DOOR -- DAY
-45.
 Jerry exits car. Adjusts the jacket. Takes the tie off too, returns to the car and tosses it inside. He walks to the front door with purpose. Suddenly an intercom crackles, jolting him with a booming and cheerful voice:
                     MATT CUSHMAN'S VOICE
           No sports agents allowed!  Ha ha.
@@ -1591,7 +1546,6 @@ MATT
 You like a Bloody Beer, Jerry?
 Beer and tomato juice --
 JERRY
-46.
 No thanks.
 Maguire takes a breath, and sharply begins his pitch.
 JERRY
@@ -1637,7 +1591,6 @@ MATT
           stronger than oak.
 Jerry toasts Matt with a bloody beer.  A good day.
 INT. RENT-A-CAR/TEXAS -- DAY
-47.
 Jerry drives back on the same bumpy road. On the radio, it's the Rolling Stones. He wants to sing along. He thinks he knows the words, but...
 JERRY
                  (sings)
@@ -1686,7 +1639,6 @@ the call record from yesterday --150 calls -- to
 She flips
 today, which is blank.
 DOROTHY
-48.
        (continuing)
 ... light.
 JERRY
@@ -1727,7 +1679,6 @@ very very back.  I re-signed Cush.
 We're set.
 DOROTHY
 JERRY
-49.
 Thanks.
           Call me later, hon.
 She hangs up, and looks over to Laurel and Chad. Both of them stare at her.
@@ -1742,7 +1693,6 @@ DOROTHY
 Twenty six years old.  I'm already
 saying "hon". Hug your mother
 quickly --
-50.
 Chad looks at her, something is different about Dorothy. Laurel walks away, sharing a look with Chad.
 INT. DALLAS AIRPORT -- DAY
 Jerry is now teeming with energy, professional and sexual.
@@ -1795,7 +1745,6 @@ Jerry. Enjoy it. Live it.  Love
 it.  And when I see you, I'm going
 to give you the best blow job of
 your life.
-51.
 He hangs up, staring at the phone. In the room with Avery, the co-workers look at each other. She is far, far out of their league.
 INT. DOROTHY'S CAR -- LATER MORNING -- DRIVING
 Dorothy Boyd speeds Jerry to the airport, the electricity
@@ -1819,7 +1768,6 @@ JERRY
                  (simulates air-bag)
           -- and you go booooong.  And
           you're safe.
-52.
 Jerry bounces against the imaginary balloon. Ray is delighted by Jerry. Dorothy notes that he's great with her son. She pats Jerry on the shoulder. Her hand lingers perhaps a millisecond too long. She pulls away quickly, always feeling on the edge or embarrassing herself around this guy.
 Luck.
 DOROTHY
@@ -1869,7 +1817,6 @@ JERRY
 Wait.  What do you mean?
 The two men have now totally confused each other. Tidwell leans across the aisle to Cush, attempting comraderie.
 TIDWELL
-53.
           Hey man, I wish I had a
           quarterback like you in Arizona.
           You're the shit.
@@ -1901,14 +1848,12 @@ TIDWELL
 CUSH
           Me too, dude.  Especially that big
           old singin' Elvis Monkey.  That's
-54.
           just insanity, man.
 TIDWELL
 Heard that.
 Tidwell reaches over, he and Cush exchange a fingertips five. Briefly, the two clients bond. Past Tidwell, Avery smiles engagingly at Jerry. He handled the situation well. She crosses her legs, stockings swishing. The workplace excites her.
 EXT. MARRIOTT MARQUIS -- NIGHT
 The headquarters for the NFL draft is buzzing with activity. Limo doors open and out pours Maguire and company. Media lights flick on, bathing Cush. Reporters chatter. ("Is it San Diego or Denver, Cush?N "Cush!") Fans at the outskirts are calling out to the young star ("Go get the big chi-ching, Cush!") Avery smoothly pulls ESPN into the front position. Telegenic Cush shrugs and smiles. ("I'll either surf or ski.") Jerry admires his fiancee. There is nothing more attractive than a person burningly efficient at their job.
-55.
 Shot drifts off this media bubble to find Tidwell watching at the outskirts. He turns and exits unnoticed.
 INT. GIFT SHOP -- NIGHT -- LATER
 Tidwell hides out in the gift shop, thumbing through magazines. The chip on his shoulder grows by the minute. Elsewhere in the gift shop, he sees the very real and emotional scene of a young athlete and his mother. Both wear self-promoting colorful homemade t-shirts with the young athlete's face on it. Something about them, their pure enthusiasm, rubs Tidwell in an odd way. He almost cries, for himself, for humanity, as Jerry enters. Tidwell is embarrassed to have been caught in this misty state.
@@ -1937,7 +1882,6 @@ TIDWELL
                  (begrudgingly)
           A'right.  Let's walk.
 We hear the ripping guitar explosion of The Who's "Magic Bus" from Live at Leeds.
-56.
 INT. MARRIOTT LOBBY -- NIGHT
 Maguire and Tidwell move through the brightly-lit lobby, past the reporters, the competing agents, the team representatives, the already blasted Jets fans, past even a
 Nike crew filming an NFL spot in the lobby. Portable everywhere, in every hand.
@@ -1989,7 +1933,6 @@ TIDWELL
           down for ya.  Fuck Nike.  All they
           do is ignore me...
 Jerry turns to Tidwell, finally focusing totally on him.
-57.
 JERRY
           You know what was great about you
           down there?  For about five
@@ -2021,7 +1964,6 @@ JERRY
           Call me tomorrow.
 TIDWELL
           I might call you later!
-58.
 Tidwell moves off, still feeling good about the walk. A small pack of diehard Jets fans pass, looking for autographs.
 INT. CUSH'S SUITE -- NIGHT
 We glide into Frank Cushman's suite overlooking Times Square. It's filled with NFL swag -- free t-shirts, athletic bags, sweatpants, and more. Half-finished room service food abounds. Matt, Keith and Cush's stylish college girlfriend ANNE-LOUISE mill about the room, basking in the glow of the man of the moment. Cush, who holds a guitar in his lap,
@@ -2041,7 +1983,6 @@ Dude, you're like a God.
 CUSH
        (immediately)
 God, you're like a dude.
-59.
 It's a great line, and the room breaks up. This is charisma, the future of the NFL. Waiter exits, as Cush continues strumming. And now Jerry speaks, importantly.
 JERRY
           Cush, Matt -- we have a decision
@@ -2094,7 +2035,6 @@ Jerry holds up a finger -- watch me. Jerry picks up the ringing phone. He offers
 JERRY
 "This is Cush."
 Suddenly, everyone is, laughing. The room lightens. INT. BOB SUGAR'S HOTEL ROOM -- DAY
-60.
 Bob Sugar talks on his hotel phone.
 SUGAR
           It's Sugar.  He must be there,
@@ -2136,7 +2076,6 @@ JERRY
           know here?
                  (silent beat)
           You fellas aren't talking with Bob
-61.
           Sugar, are you?
 More silence.
 MATT
@@ -2163,7 +2102,6 @@ JERRY
           It's okay.  You want Denver. I'll
           fix this up.  You didn't sign
           anything with Sugar, right?
-62.
 Another rough silence is broken by little brother Keith.
 KEITH
                  (blurts)
@@ -2221,7 +2159,6 @@ JERRY
           And you'll be fine.  And Keith I
           bope you do call me.
 Times Square, in
-63.
 Flushed and embarrassed, he exits. We hang a beat on the silent Cushman hotel livingroom, as Cush now continues on guitar.
 INT. LOBBY -- NIGHT
 Jerry exits elevator dazed, at full trot. The Marriott lobby is packed. He is looking for Avery. Beat reporter Patricia Logan reappears. She relishes asking brutal questions, innocently.
@@ -2232,7 +2169,6 @@ JERRY
           I'm sorry... excuse me...
 INT. BALLROOM -- NIGHT
 Jerry enters the grand ballroom, looking for Avery. Endorsement placards in evidence everywhere. NFL reps and media workers move tables and work out camera and seating arrangements. Elevated in a open ESPN booth six feet off the ground, host Chris Berman records voice-overs for tomorrow's draft. Fans heckle him by singing the ESPN theme. He rolls with it, expertly. Jerry spots Avery across the empty ballroom, moving fast, passing out media packets on the empty tables.
-64.
 INT. ADJACENT BUFFET ROOM -- NIGHT
 Jerry finally catches up with Avery in the empty side-room.
 She keeps
@@ -2286,7 +2222,6 @@ JERRY
           I think you added the "brutal."
 She stops, slaps down another media packet. Blows a troublesome piece of hair out of her face.
 AVERY
-65.
           Jerry, there is a "sensitivity"
           thing that some people have.  I
           don't have it.  I don't cry at
@@ -2329,7 +2264,6 @@ Goodbye!
 AVERY
           I'm warning you.  Don't say it.
           You won't have another chance.
-66.
 JERRY
 Listen to me!
 No.
@@ -2354,7 +2288,6 @@ AVERY
           I did the 23 hour nose-route to
           the top of El Capitan in 6 hours!
           I can make this work.
-67.
 No.
 JERRY
 (it slips out)
@@ -2385,7 +2318,6 @@ TIDWELL
 Everybody on this show cries now.
 JERRY
 TIDWELL
-68.
 Rod --
        (off t.v. )
 You feel bad you tested positive?
@@ -2439,7 +2371,6 @@ TIDWELL
           years, tops!  My next contract's
           gotta bring me the dollars that'11
           last me and mine a very long time.
-69.
 Why not?
           I'm out of this sport in five
           years.  What's my family gonna
@@ -2481,7 +2412,6 @@ Assistant-Without Medical-For-
 Company Syndrome.  And if, knowing
 all that, you still allow him to
 come over, more power to you.
-70.
 DOROTHY
           Honey, he's engaged.  And for the
           first time in my professional
@@ -2510,7 +2440,6 @@ with the oncoming car.
 JERRY
  Cars parked on both
 headlights.
-71.
 he floors it.  Same
                  (continuing)
           Yes, good, floor it, kill us!!
@@ -2552,7 +2481,6 @@ Avery.
 Dorothy's entire body chemistry changes in ways she doesn't quite understand.
 DOROTHY
 Too bad.
-72.
 JERRY
           Better now than later.  We'll
           still be friends. I'm dying here.
@@ -2594,7 +2522,6 @@ whatever "it" may be. My dad... he
 worked for the United Way for 38
 years!  You know what he said when
 he retired? He said, "I wish I'd
-73.
           had a more comfortable chair." 38
           years he sat in it!  Do you know
           what I'm saying, Dorothy?
@@ -2633,7 +2560,6 @@ responsible with Ray and you know
 it's not right for a little boy to
 hear some strange man's voice in
 I heard.
-74.
 the house.
 DOROTHY
           As opposed to twenty angry women?
@@ -2666,7 +2592,6 @@ DOROTHY
           right now? They are partying in
           clubs, trying to act stupid,
 up two tops.  One is sexier with a dipped down
-75.
           trying to get a man, trying to
           keep a man... not me. I'm trying
           to RAISE a man.
@@ -2708,7 +2633,6 @@ All my life I've been trying to
 talk, really talk, and no one
 wants to listen.  You know that
 feeling?
-76.
 Ray nods vigorously.
 RAY
           Let's go right now.  Let's go to
@@ -2744,7 +2668,6 @@ DOROTHY
 Drinks.  Food.  Plus, I called you
 a cab.
 JERRY
-77.
                  (slightly confused)
           Good idea.  Thank you.
 And we should keep our voices down a little. I have a little boy asleep.
@@ -2784,7 +2707,6 @@ got wits!
 (more)
           JERRY (cont'd)
 I've got the instincts of a
-78.
           panther!
                  (joust)
           I've got Dorothy Boyd on my side!
@@ -2823,7 +2745,6 @@ JERRY
 DOROTHY
 What you wrote inspired me.
 Me too.
-79.
 He is catching a scent of that most ancient elixer. A woman's affection. Their heads inch closer together.
 DOROTHY
                  (continuing)
@@ -2889,11 +2810,9 @@ JERRY
 WILBURN
           Your timing is impeccable,
           Maguire. Gee, I can't imagine how
-80.
           you ever lost Cush...
 Wilburn moves on, scoffing loudly.
 INT. LOCKER ROOM SHOWER AREA -- DAY
-81.
 Jerry stands in pre-season locker-room. Off-stage we hear a shower. In the b.g., one of those locker-room psych-up signs like: Injuries happen first in the mind.
 JERRY
           I started talking with Dennis
@@ -2961,7 +2880,6 @@ TIDWELL
 INT. LOCKER ROOM MIRROR -- DAY
 The conversation continues as Tidwell fixes hair in the mirror. Jerry speaks to the reflection, taking him on, gesturing passionately. Tidwell, still naked, may or may not be listening.
 JERRY
-82.
           Here's what I'm saying.  This is
           a renegotiation.  We want more
           from them, so let's show them more
@@ -3000,7 +2918,6 @@ TIDWELL
           I'm an athlete, not an
           entertainer. These are the ABC's
           of ME.  Get it? I don't dance.
-83.
 Jerry rubs face.
 TIDWELL
 TIDWELL
@@ -3027,7 +2944,6 @@ JERRY
                   arms flailing)
           Hey.  I'm happy to entertain you!
           I'll see you in L.A.!
-84.
 Tidwell watches his agent lurch off, muttering and swaying.
 TIDWELL
           See, man, that's the difference.
@@ -3054,7 +2970,6 @@ Good.  Good.  Glad is good.
 DOROTHY
 Plus, you could use that
 commission.
-85.
 She hands
 quick look, seeing the thorough work she's already done.
 JERRY
@@ -3098,7 +3013,6 @@ with your thoughts.
 Think about everything that's gone
 wrong, how to fix them, and just
 be... alone, alone, alone.
-86.
 Dorothy in the background of the shot, watching his reaction.
 JERRY
           You want to go out to dinner?
@@ -3137,7 +3051,6 @@ You meet Chad the nanny?
 JERRY
 Yeah, I did -- am I dressed okay?
 I guess I didn't realize we were...
-87.
 He doesn't finish the words "going out on a date." The cacaphony of the Boyd home swirls around Maguire. It's a new sensation for this bachelor.
 DOROTHY
           Don't let him stay up too late.
@@ -3179,7 +3092,6 @@ DOROTHY
                  (eyes tear up)
           I mean, he must have been needing
           that.
-88.
 Women's group laughter in the distance as Laurel attempts to glue her emotional sister back together. She holds her arm.
 LAUREL
 No no.  Don't cry at the beginning
@@ -3192,7 +3104,6 @@ LAUREL
        (can't help it)
 And don't be a shoulder for him to
 cry on either.
-89.
 We stay with Laurel as she watches her sister exit. continues. Lit by streetlight, Dorothy runs like a young girl, across the lawns of this car-filled neighborhood, slapping away the leaves of a tree, running to Jerry down the street.
 INT. ANTONIO'S RESTAURANT -- NIGHT
 Jerry and Dorothy sit at the table of this Mexican restaurant. In the background, Mariachis play.
@@ -3240,7 +3151,6 @@ JERRY
                  (touches wound)
           her temper, I guess.  Why are we
           even talking about this?
-90.
 A FLOWER GIRL approaches the table with an armful of roses.
 FLOWER GIRL
           A rose for the lady.
@@ -3280,7 +3190,6 @@ DOROTHY
           I'll be home soon.  Can't wait to
           see you.
 EXT. BATHROOM
-91.
 Sbe exits the bathroom and stops at the sight of what is happening at the table. Jerry, hand on face, is embarrassingly being serenaded by the Mariachis, who now play a mournful "Tears in Heaven." She smiles at the image, in fact the poetry charms her. Dorothy moves forward, grinning, fishes some bucks out of her pocket, and sends the Mariachis in another direction.
 DOROTHY
           Come on, let's take a walk.
@@ -3320,7 +3229,6 @@ INT. LIVING ROOM -- NIGHT
 Dorothy enters to find Chad watching t.v. The house is now quiet, the remains of the Divorced Women's group is still in evidence.
 DOROTHY
           He's asleep, right?
-92.
 CHAD
           Yeah, how'd it go with Sportboy?
 DOROTHY
@@ -3358,7 +3266,6 @@ CHAD
 Jerry takes the tape, as the front door squeaks open. Dorothy shoos Chad away, quietly leads Jerry inside.
 INT. BEDROOM-- NIGHT
 Fierce, driving jazz. Dorothy and Jerry making out on bed. Getting hotter. The music gets wilder. Finally it is
-93.
 impossible to ignore, and Jerry collapses backwards on the bed laughing. She is left frozen, her arms open but he is gone.
 DOROTHY
           What is this MUSIC?
@@ -3399,7 +3306,6 @@ bottom rung.
 listening.  Pinned to the wall, listening to
 honesty an agent rarely hears.
 the kind of
-95.
 They look
 ON JERRY
 DOROTHY
@@ -3461,7 +3367,6 @@ RAY
 JERRY
           A lot.  We got a big fax today...
           we need this commission, buddy.
-96.
 The sisters look at each other. Ray looks around, he feels happy, but there is something else in the room. He shrugs and continues to feel happy.
 INT. JERRY'S HOME OFFICE -- LATER DAY
 Jerry and Dorothy prepare for the Tidwells, cleaning up the cramped office, unstacking chairs and making room.
@@ -3478,7 +3383,6 @@ window quickly, and busies herself with the clutter at hand.
 ON FAX
 Connecting.
 FOUR FACES
-97.
 slightly slapped down, but covers.  She opens a
 waiting for the results. Everybody has a stake in this fax. Lives are very clearly hanging on this results. Marcee shuts her eyes.
 MARCEE
@@ -3535,7 +3439,6 @@ DOROTHY
           Well, I'm sorry, I'm not as good
           at the insults as she is.
 MARCEE
-98.
 Marcee --
 No, that was pretty good.
 TIDWELL
@@ -3576,7 +3479,6 @@ MARCEE
           and go be a free agent next year
           and the hell with Arizona. This is
           us, and we determine our worth.
-99.
           You're a fine, proud, surviving,
           splendid black man.
 Beat. Truer words... The big man looks into his wife's eyes.
@@ -3606,7 +3508,6 @@ JERRY
           I'll get you some quick work --
 TIDWELL
           Good deal, man.
-100.
 MARCEE
           I'm sorry what I said back there.
 JERRY
@@ -3630,7 +3531,6 @@ JERRY
           Tidwell. We'll stay afloat.
 EXT. COMMERCIAL SET/TAYLOR CHEVROLET/ARIZONA -- DAY
 Tidwell stands on the set of a regional Arizona car commercial. It is a hot day. Three other bored, large Arizona athletes wait by a coffee machine, as Jerry's friend, director Bill Dooler appears ready to implode. Dooler is arguing with Tidwell.
-101.
 Maguire stands slightly away, acting as referee. Nearby, a camel.
 DOOLER
           Look, Rod, just get on the camel!
@@ -3677,7 +3577,6 @@ JERRY
           single mother?
 Tidwell warms to the personal question.
 TIDWELL
-102.
           Oh I know plenty.  I was raised by
           a single mother.
 JERRY
@@ -3719,7 +3618,6 @@ JERRY
           I didn't "shoplift the pooty."  We
           were thrown together and -- I mean
           it's two mutual people who --
-103.
                  (a look)
           Alright, I shoplifted the pooty.
 TIDWELL
@@ -3752,7 +3650,6 @@ JERRY
                  (continuing)
           The Two-Headed Corn Snake.
 THE TWO-HEADED CORN SNAKE
-104.
 A friendly but confused looking reptile. The snake has two heads, both identical, both twisting and battling each other for direction. Aw-ed chatter around the animal ranges from
 "weird" and "wow" to "mira mira! Dos cabezas!" Few can turn away.
 RAY
@@ -3789,7 +3686,6 @@ LAUREL
           warm body to cushion the fall.
 fighting itself constantly.
 men in her life.  She turns to
-105.
           Check out exhibit A on the front
           lawn --
 POV -- THE SISTERS
@@ -3822,7 +3718,6 @@ Jerry blinks.
 JERRY
                  (too quick, weirdly)
           ... I love you too, you know.
-106.
 She reacts with an odd look. The words don't sound right, and he knows that she knows.
 JERRY
                  (continuing)
@@ -3857,7 +3752,6 @@ JERRY
 She looks at him.  It's an odd proposal.
 JERRY
                  (continuing)
-107.
 She looks
 If I said that, would you stay?
 DOROTHY
@@ -3884,7 +3778,6 @@ DOROTHY
 Wow.  We actually --
 JERRY
 Yeah, we did.
-108.
 Giddy, Dorothy heads into the living room where Friends and relatives watch the video of the wedding. And now the enormity is evident on Jerry's face. Warm laughter in the b.g. More laughter and family noise in the background now. He holds onto a table for a moment, steadies himself. Jerry takes a breath and moves into the kitchen. Finds a beer. He turns and finds himself alone with Laurel, for the first time. She raises her beer. They toast, warily.
 LAUREL
           If you fuck this up, I'll kill you.
@@ -3909,7 +3802,6 @@ EXT. PHILADELPHIA PLAYING FIELD -- DAY
 Tidwell catches the ball, takes a vicious hit. The season is on.
 INT. PHILADELPHIA PRESS BOX -- DAY
 Across the room, he sees GM Dennis Wilburn standing with Avery.
-109.
 He turns away, passing a monitor where elsewhere in the
 country, Frank Cushman is having another sensational Sunday.
 INT. TIDWELL LIVING ROOM/PHOENIX -- DAY
@@ -3941,7 +3833,6 @@ How's your head? Bubblicious.
 TIDWELL
 Tidwell moves to a tan in a
 wheelchair, signs an autograph and
-110.
           moves on.  Jerry alongside. The
           quarterback sucks, man.  He's
           gonna get me killed.
@@ -3978,7 +3869,6 @@ TIDWELL
 Tidwell wearily heads for the bus. Jerry stands in the parking lot.
 JERRY
 I'll see you in Arizona.
-111.
 TIDWELL
           I'm gonna have the game of my life
           on Monday Night Football, and show
@@ -4019,7 +3909,6 @@ TIDWELL
 JERRY
                  (shaking his head)
           You're jabbing at me.
-112.
 TIDWELL
 I'm sorry I asked.
 JERRY
@@ -4062,7 +3951,6 @@ heart.  In your personal life?
 Heart. But when you get on the
 field --
 (more)
-113.
                     JERRY (cont'd)
                  (finger rises to
                   Tidwell's head)
@@ -4139,7 +4027,6 @@ Jerry and Dorothy exhausted, alone, getting ready for bed. Dorothy sits down nea
 DOROTHY
           What were you thinking tonight?
           Watching them go through the
-114.
           complete human emotional
           experience?
 JERRY
@@ -4164,7 +4051,6 @@ JERRY
           Why do you love me?
 DOROTHY
           Why do you love me?
-115.
 It is, of course, the better question. And before he can answer, there is a pounding at the door.
 RAY
 Jerry, can I come in and watch
@@ -4180,7 +4066,6 @@ The door flies open and Ray comes bounding in, onto the bed, stations himself in
 INT. PRESCHOOL -- NEXT DAY
 Dorothy drops Ray at preschool, and stands in the doorway of
 the playroom. She watches the boys and girls playing together in a room full of bright colors and games. Music. Anxiety building.
-116.
 EXT. RAY'S PLAYHOUSE -- NIGHT
 Jerry sits finishing a phone call to an advertising account exec. He has come here, to Ray's playhouse for privacy.
 JERRY
@@ -4227,7 +4112,6 @@ JERRY
 DOROTHY
           I think we made a mistake here.
 But now he can't stop.
-117.
 She notes
 What about Ray?
 the only real glimpse of ache, in that question.
@@ -4269,7 +4153,6 @@ See, I've got this great guy who
 loves my kid --
        (resolute, no tears)
 -- and he sure does like me a lot.
-118.
 Jerry Maguire, a man who speaks for a living, has nothing to say.
 DOROTHY
                  (continuing)
@@ -4328,7 +4211,6 @@ man in a Pickle
           look good on t.v."
 Tidwell looks at him, chews his toothpick.
 Laser-like, ready
-119.
 SUGAR
                  (continuing)
           You should let me do more for you.
@@ -4352,7 +4234,6 @@ Here comes Jerry Maguire.
 JERRY
           Get the fuck away from my guy,
           Sugar.
-120.
 Tidwell can't help it.  He beams as he sees his agent
 approach.
 TIDWELL
@@ -4398,7 +4279,6 @@ MARCEE
                  (to others)
           Boy, no s-h-i-t.
 Big laughs from the living room. Except Tee Pee.
-121.
 TEE PEE
           He's gonna have nothing left for
           next season.  They're letting him
@@ -4409,7 +4289,6 @@ TEE PEE
 What'd I say?
 INT. PRESS BOX -- NIGHT
 Maguire watches as Arizona's quarterback John Swenson drops back for a pass, and is sacked.
-122.
 Philadelphia fans cheer wildly. The game is turning uglier by the minute. Jerry looks up to the monitor for a closet look at the next play.
 ON PRESS BOX MONITOR
 Swenson, the Arizona quarterback, throws a wobbly pass into the end-zone. Tidwell leaps for the catch, tucks the ball in and is promptly and brutally hit by two defenders from two different sides. This hit is bad. Worse than bad. Tidwell flips and comes down like a sack of potatoes, with a thud, ball still in his hands. His head hits the astroturf, hard. Tidwell is out cold. And the ripple effect of the injury shoots through the stadium. Jerry stares at the monitor, stunned by the sudden brutality.
@@ -4430,7 +4309,6 @@ sob.  Camera catches the face of Tyson, now
  Scared, he embraces his mother.
 INT. BOWELS OF SUN DEVIL STADIUM
 Maguire sprints through the inner bowels of the stadium. He turns the corner, into the tunnel, talking his way past a guard, heading into the bright t.v. light of the football field.
-123.
 INT. TIDWELL LIVING ROOM -- NIGHT
 Gathering around the television, the family waits through a commercial for more information on Rod's injury.
 TEE PEE
@@ -4470,7 +4348,6 @@ call back.
 MARCEE
 My whole life is this family,
 Jerry. It doesn't work without him.
-124.
 Trainer
 fallen
 him out.
@@ -4514,7 +4391,6 @@ Not a breath is taken.  Is he okay?
 He rises. Stadium explodes. At first on wobbly feet, he raises the football and for the first time -- salutes the crowd. Crowd noise doubles.
 ON MAGUIRE
 gasping for breath.
-125.
 ON TIDWELL
 Has never felt like this before in his life. It is the pure and absolute love of the spotlight. And his fans.
 And then... it's real and he feels it. Tidwell breaks out in a small but unmistakable move -- a flutter step. He does a high-stepping move, all his own, for about ten yards.
@@ -4539,7 +4415,6 @@ Maguire rubs his face. Overcome. Photographers and others rush past to be closer
 INT. TUNNEL -- LATER
 Jerry Maguire surrounded by well-wishers and backslappers and Sportswriters. Success has returned, in all of it's superficial grandeur. He is a star again, by association.
 We catch the look on Maguire's face. Try as he might, he
-126.
 can't manufacture the joy of the moment. There is a void. Over the heads of the heatseekers we see Dennis Wilburn nodding, holding a thumbs up. He tries to get to Maguire, but cannot. And then a commotion behind them all.
 REPORTER
           It's Tidwell!
@@ -4569,7 +4444,6 @@ Arizona players, as
           One love... you got to share it...
 INT. TIDWELL HOME -- NIGHT
 Tee Pee is stuck at home, babysitting twenty kids.
-127.
 INT. KAROAKE BAR -- NIGHT
 We move past many Big Men celebrating Tidwell, singing along, sharing their Monday Night victory, onto melancholy Jerry Maguire. He watches, cellular at his side, as a YOUNG AGENT approaches.
 YOUNG AGENT
@@ -4582,7 +4456,6 @@ YOUNG AGENT
           I wondered if you would sign this
           for me. Because it inspired me.
 He withdraws a well-thumbed copy of Jerry's Mission Statement. The blue cover is ripped along one edge. It clearly has served as a manifesto for this younger man's career.
-128.
 ON JERRY MAGUIRE
 He feels the cover, flips through it a little. Memories flood with the passing pages. Shot holds on Jerry's face, as Tidwell continues singing in the background. Suddenly, an odd feeling. A shiver runs up and down his spine. His forehead tingles. He rubs his face. All he can do is think of Dorothy.
 AGENT
@@ -4634,7 +4507,6 @@ JERRY
           I'm not letting you get rid of me.
           How about that?
 He shares a look with some of the other women. She's not going to say a word. Neither do they.
-129.
  Looks at the house.
 world he hopes he's
 JERRY
@@ -4678,7 +4550,6 @@ FIRESTONE
           -- well, Rod, your agent passed me
           a note before the show. He says
           that your deal memo has been
-130.
           signed by the Arizona Cardinals.
           Four years for ten-point-two
           million dollars.  Playing in the
@@ -4718,7 +4589,6 @@ TIDWELL
           ambassador of kwan.
 FIRESTONE
           Ten seconds, Rod.
-131.
 TIDWELL
           And I love my fans, of which he is
           one. Wanna thank them for all my
@@ -4732,7 +4602,6 @@ TIDWELL
           suit...
 EXT. PARKING LOT -- DAY
 Jerry, Dorothy, Ray exit into the daylight. They walk to Jerry's car. From across the fence, a stray baseball from a pick-up game flies into the parking lot and bounces ahead of them. Ray picks it up. In an easy fluid motion, he whips it back over the fence to the game on the other side. A few kids on the other side of the fence shout their approval of a great little throw.
-132.
 Jerry and Dorothy stop, looking at Ray who has just shown shocking natural ability. They are quiet for a moment, turning slowly to look at each other. And then, not ready to deal with it, not even close to ready to deal with it, they say quickly to the boy:
              JERRY                         DOROTHY
      Come on, Ray.                 Ray, let's go.
