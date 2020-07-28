@@ -199,7 +199,7 @@ null if none exists
 */
 function getMusicLocation(pageParam, index) {
     var loc = storyData[pageParam]["music"];
-    if (loc && loc.length[index]) {
+    if (loc && loc[index]) {
         return "audio/"+pageParam+"/"+loc[index];
     }
     return null;
