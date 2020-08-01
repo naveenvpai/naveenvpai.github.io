@@ -67,27 +67,35 @@ storyData = {
             1006: "lifethebiggesttroll.mp3"
         }
     },
-    "ets": {
-        "title": kaufmanTitle,
-        "copyright": kaufmanCopyright,
-        "author": kaufmanAuthor,
-        "body": kaufmanText,
-        "delimiter": ". ",
-        "addDelimiter": true
-    },
-    "ptafpf": {
-        "title": shorTitle,
-        "copyright": shorCopyright,
-        "author": shorAuthor,
-        "body": shorText,
-        "delimiter": ". ",
-        "addDelimiter": true
-    },
-    "jm": {
-        "title": croweTitle,
-        "copyright": croweCopyright,
-        "author": croweAuthor,
-        "body": croweText,
+    // "ets": {
+    //     "title": kaufmanTitle,
+    //     "copyright": kaufmanCopyright,
+    //     "author": kaufmanAuthor,
+    //     "body": kaufmanText,
+    //     "delimiter": ". ",
+    //     "addDelimiter": true
+    // },
+    // "ptafpf": {
+    //     "title": shorTitle,
+    //     "copyright": shorCopyright,
+    //     "author": shorAuthor,
+    //     "body": shorText,
+    //     "delimiter": ". ",
+    //     "addDelimiter": true
+    // },
+    // "jm": {
+    //     "title": croweTitle,
+    //     "copyright": croweCopyright,
+    //     "author": croweAuthor,
+    //     "body": croweText,
+    //     "delimiter": ". ",
+    //     "addDelimiter": true
+    // },
+    "juno": {
+        "title": codyTitle,
+        "copyright": codyCopyright,
+        "author": codyAuthor,
+        "body": codyText,
         "delimiter": ". ",
         "addDelimiter": true
     }
