@@ -96,7 +96,7 @@ storyData = {
         "copyright": codyCopyright,
         "author": codyAuthor,
         "body": codyText,
-        "delimiter": ".",
+        "delimiter": /\.\ |\.\n|\?\ |\?\n|\!\ |\!\n/,
         "addDelimiter": true
     }
 };
