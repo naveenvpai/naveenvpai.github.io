@@ -96,8 +96,8 @@ storyData = {
         "copyright": codyCopyright,
         "author": codyAuthor,
         "body": codyText,
-        "delimiter": /\.\ |\.\n|\?\ |\?\n|\!\ |\!\n/,
-        "addDelimiter": true
+        "delimiter": /(?=\.\ |\.\n|\?\ |\?\n|\!\ |\!\n)/,
+        "addDelimiter": false
     }
 };
 
