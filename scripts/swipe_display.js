@@ -95,9 +95,10 @@ storyData = {
         "title": codyTitle,
         "copyright": codyCopyright,
         "author": codyAuthor,
-        "body": codyText,
-        "delimiter": /(?=\.\ |\.\n|\?\ |\?\n|\!\ |\!\n)/,
-        "addDelimiter": false
+        // "body": codyText,
+        // "delimiter": /(?=\.\ |\.\n|\?\ |\?\n|\!\ |\!\n)/,
+        // "addDelimiter": false
+        "paragraphs": codyParagraphs
     }
 };
 
