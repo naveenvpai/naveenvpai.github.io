@@ -4,7 +4,7 @@ codyCopyright=`Production Office:
                                                     Dancing Elk Pictures Ltd. 
                                                     214-2400 Boundary Road 
                                                     Burnaby, BC V5M 3Z3`
-codyText=`. EXT. CENTENNIAL LANE - DUSK
+codyText=`EXT. CENTENNIAL LANE - DUSK
 
                JUNO MacGUFF stands on a placid street in a nondescript 
                subdivision, facing the curb. It's FALL. Juno is sixteen 
