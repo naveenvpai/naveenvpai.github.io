@@ -5,7 +5,7 @@ gloverText=`
 NOTE TO READER: THE PRELUDE TO THIS SCREENPLAY (“CLAPPING FOR THE WRONG REASONS”) IS <a href="https://www.youtube.com/embed/Z_bONLcE8IA" target="new">AVAILABLE ON THE WEBSITE YOUTUBE FOR FREE CONSUMPTION</a>. IT MAY OR MAY NOT GIVE CONTEXT TO THIS WORK YOU’RE READING.
 You can’t live your life on a bus... 
 EXT. CHURCH PARKING LOT - DAY 
-A white bus opens it’s door and a flood of children run off laughing and screaming. After the initial burst, three girls get off laughing. After them, A LITTLE BOY steps off. He’s walking slow and somber. 
+A white bus opens its door and a flood of children run off laughing and screaming. After the initial burst, three girls get off laughing. After them, A LITTLE BOY steps off. He’s walking slow and somber. 
 All the parents in the parking lot are hugging and kissing their kids. Lots of kids are laughing. The Boy keeps walking until he reaches a black limousine parked at the far end. 
 A chauffeur (old heavyset white guy) stands holding the door open waiting for The Boy. 
 CHAUFFEUR Ey! Look who it is. 
